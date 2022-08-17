@@ -1,0 +1,220 @@
+CSV text has been written to file : myIOT_lib.csv
+
+Library Component Count : 205
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+18650BATT1C         18650 Battery 1 Cell Holder SMD
+18650BATT2          18650 Battery 2 Cell Holder SMD
+2N7002              N-channel Enhancement Mode Field-effect Transistor 2N7002
+74LVC1T45GW         IC 74LVC1T45GW-W100H Level Translator 6-TSSOP
+ADR512ARTZ          ADR512ARTZ VRef Shunt Precision 1.2V SOT-23-3
+ANT_WM16803CT-ND    SMD Ant. molex WM16803CT-ND
+AP7331-SNG          300mA, LOW QUIESCENT CU  RRENT, FAST TRANSIENT   LOW DROPOUT LINEAR REGULATOR
+AP7361C             AP7361C-FGE-7   Low Dropout Adjustable 1A Regulator
+AT45DB161E          AT45DB161E-SUD-T Flash Memory 16M, 2.5-3.6V SPI SOIC-8
+Ant_W3544A          LTE Antenna (W3544A) 850-900/1710-2170MHz PCB Trace
+Arduino_CatNB       Arduino Shield Cat.M1/NB
+B340LA-13F          Schottky Diode B340LA-13F
+BAT54S              Diode BAT54S Schottky Barrier Rectifier Diode 30V 200mA  SOT-23
+BC95                BC95 IoT NB RF Module  Quectel
+BD48L32G            BD48L32G  Voltage Supervisor 3.2V,Open Drain ,Active LOW
+BD49L33G            IC BD49L33G-TL Power Management 1-CH 3-SSOP
+BD5291FVE-GTR       BD5291FVE-GTR  Input/Output Full Swing  Low Input Offset Voltage  Operational Amplifier
+BD9C601EFJ          
+BG96                BG96 IoT NB/Cat.M1 RF Module  Quectel
+BLUEPILL_stm32      Arduino STM32F103C8T6 ARM STM32 with Bootloader
+BM70BLES1FC2        BM70BLES1FC2  Bluetooth 5 (BLE) Module Integrated Ant 1.9-3.6Vrate
+BQ24210             bq24210 800-mA, Single-Input, Single-Cell Li-Ion Battery Solar Charger
+BSS84               P-channel Enhancement Mode Vertical D-MOSFET BSS84
+Brd_BME280          Module BME280
+Brd_GY9250          Module GY9250
+C0603_100           Capacitor 0603 10 pF
+C0603_101           Capacitor 0603 100 pF
+C0603_102           Capacitor 0603 1000 pF
+C0603_103           Capacitor 0603 10000 pF
+C0603_104           Capacitor 0603 0.1 uF
+C0603_105           Capacitor 0603 1 uF
+C0603_120           Capacitor 0603 12 pF
+C0603_150           Capacitor 0603 15 pF
+C0603_180           Capacitor 0603 18 pF
+C0603_220           Capacitor 0603 22 pF
+C0603_270           Capacitor 0603 27 pF
+C0603_330           Capacitor 0603 33 pF
+C0603_470           Capacitor 0603 47 pF
+C0603_560           Capacitor 0603 56 pF
+C0603_680           Capacitor 0603 68 pF
+C0603_820           Capacitor 0603 82 pF
+C0603_8pF           Capacitor 0603 8 pF
+C0805_102           Capacitor 0805 1 nF
+C0805_104           Capacitor 0805 0.1 uF
+C0805_105           Capacitor 0805 1 uF
+C0805_106           Capacitor 0805 10 uF
+C0805_226           Capacitor 0805 22 uF
+CLIP18650           clip 18650
+CPOL_100U           Capacitor SMD Electrolytic 100 uF
+CPOL_470U           Capacitor SMD Electrolytic 470 uF 10V
+DALC208             Diode DALC208SC6 Diode suppresssor 9V SOT23-6
+DMC2700UDM          DMC2700UDM 20V COMPLEMENTARY PAIR ENHANCEMENT MODE MOSFET
+DMG6601LVT-7        DMG6601LVT-7COMPLEMENTARY PAIR ENHANCEMENT MODE MOSFET
+DTC143ZCAT116       DTC143ZCAT116 
+Digital Transistor NPN 50V/100mA,200mW 4.7kO and 47kO Built-in Bias Resistors
+D_RB550VAM          Schottky Diode RB550VAM
+Diode 1N4148        Diode 1N4148WS-7 Switch  SOD323 75V
+Diode BAT60AE       BAT60AE6327INCT-ND Schottky Diode 10V 2A SOD-323
+ELS61               
+ESIM                MFF2 5x6 mm eSIM QFN-8
+FB0603_300_1A       Ferrite SMD 0603 30 Ohm 1000MA BLM18PG300SN1D Murata
+FB0603_601_1A       Ferrite Bead SMD 0603 600 Ohm MPZ1608S601A TDK
+FB0603_680_1A       Ferrite SMD 0603 68 Ohm 1A MI0603J680Rm10
+FB0805_101_4A       Chip Beads for Power Line 100O±25%,
+Rate Current 4A
+DC Resistance(DCR) 0.02O
+FDN327N             Transistor FDN327N N-CH 20V 2A MOSFET 0.5W
+FIDU31              
+FT234XD             M1728 IC FT234XD-R USB to Serial UART 12DFN
+Fuse _auto          Automive Fuse Holder 19mm x5 mm
+GPS_ANT25           GNSS active antenna 25x25 mm
+HDR27               
+Header 2            Header, 2-Pin
+Header 3            Header, 3-Pin
+Header 6            Header, 6-Pin
+Header_25           Header, 25-Pin
+IMH9AT110           IMH9AT110
+Dual Digital Transistor NPN 50V/100mA,10kO and 47kO Built-in Bias Resistors
+IND_1UH             Inductor Fixed Power 1uH 3A 30 mOhm 1212 SMD
+IND_3U3H            Inductor Fixed Power 3.3uH
+IND_4U7H            Inductor Fixed Power 4.7uH 980mA 0.117 Ohm
+JP_SMD              Jumper SMD 0603 size
+Jumper              Small Jumper for (M) pin header pitch 2.0mm
+L0603_10UH          Inductor smd 0603 10uH
+L0603_10nH          Inductor SMD 0603 10 nH 650 mA WW Ceramic
+L0603_27nH          Inductor SMD 0603 27 nH 600 mA WW  
+L0603_39nH          Inductor smd 0603 39 nH
+L0603_47nH          Inductor smd 0603 47 nH
+L0603_82nH          Inductor smd 0603 82 nH
+LAN_HY911103A       ConnectorRJ45 Magnetic with 2 LEDfor 10/100
+LARA-R2             LARA MODULE UBLOX
+LDL212PVR           IC LDL212PVR Regulator LIN 1.18V 1.2A 6-WFDFN
+LED0805_GRN         LED TO-2013BC-MGE SMD Green water clear 146 MCD
+LED0805_YLW         LED TO-2013BC-MYE SMD Yellow water clear 146 MCD
+LED3MMH_BLU         Housing LED Round 3mm,Blue Color 450mcd
+Blue Diffused Lens,Viewing Angle 38 Degree
+LED3MMH_YLW         Housing LED Round 3mm,Yellow Color 220mcd
+Yellow Diffused Lens,Viewing Angle 50 Degree
+LED_RGB             LED RGB COMMON ANODE
+LMV431ACM5/NOPB     Low-Voltage (1.24V) Adjustable Precision Shunt Regulators, 5-pin SOT-23, Pb-Free
+LPC11U68JBD100      IC LPC11U68JBD100 MCU 32bit ARM 256KB Flash USB 100pins LQFP-100
+LPC11U68JBD48       LPC11U68JBD48  Cortex-M0+  NXP MCU
+LPC1768MBED_MODULE  LPC1768 MBED MODULE
+Linkit7688          Linkit Smart 7688 (102110018) Controller
+Linkit7688duo       
+MAX-8Q              GNSS Module, Model : MAX-8Q with GPS, Ublox
+MAX3232CSE          3.0V TO 5.5V, Low-Power, up to 1Mbps, True RS-232 Transceiver Using Four 0.1µF External Capacitor
+MCP121T             MCP121T-300E/LB Micropower Voltage Supervisor 2.93V,Active LOW
+MCP16251            Low Quiescent Current, PFM/PWM Synchronous Boost Regulator sot23-6
+MCP23017T-E/SO      16-Bit I/O Expander with Serial Interface, 28-Pin SOIC, Extended Temperature, Tape and Reel
+MCP73831T-2ACI/OT   Miniature Single-Cell, Fully Integrated Li-Ion, Li-Polymer Charge Management Controller, 4.2V, 5-Pin SOT-23, Industrial Temperature, Tape and Reel
+MCP73833T           MCP73833T Stand-Alone Linear Li-Ion / Li-Po Charge
+Management Controller
+MK22FN512VLH12      MCU K22F
+MTH_M3              Mounting Hole M3 diameter 3.2mm
+MX25R1635FM2IH1     NOR-Flash Macronix MX25R1635FM2IH1
+MicroSIM            Connector for Micro SIM card ,8 pin, 1.27 mm pitch PCB SMT
+MicroSIM_molex      Connector for Micro SIM card ,8 pin, 1.27 mm pitch PCB SMT
+Modem_ICS           
+NSR1020MW2          Schottky Diode NSR1020MW2
+NTLJF3117PT1G       Power MOSFET P-CH with Schottky Diode
+PCA9306             IC VOLT-LVL TRANSL PCA9306DTR2G Translator TSSOP-8
+PCB_TERM            
+PDZV3.6A            PDZV3.6A  Zener Diode 3.6V 1W ±6.19% Surface Mount PMDTM
+PDZV4.3A            PDZV4.3A  Zener Diode 4.3V 1W ±6.19% Surface Mount PMDTM
+PDZV5.1A            PDZV5.1A  Zener Diode 5.1V 1W ±6.19% Surface Mount PMDTM
+PDZV5.6A            Diode PDZVTR5.6A Zener 5.65V 1W SOD-128
+PDZV9.1A            PDZV9.1A  Zener Diode 9.1V 1W ±6.19% Surface Mount PMDTM
+PESD5V0U1UB         ESD PESD5V0V1BB  SOD523
+R0603_0R            Resistor smd 0603 0 Ohm
+R0603_101           Resistor smd 0603 100 Ohm
+R0603_102           Resistor smd 0603 1 kOhm
+R0603_103           Resistor smd 0603 10 kOhm
+R0603_104           Resistor smd 0603 100 kOhm
+R0603_105           Resistor smd 0603 1 MOhm
+R0603_10R           Resistor smd 0603 10 Ohm
+R0603_123           Resistor smd 0603 12 kOhm
+R0603_151           Resistor smd 0603 150 Ohm
+R0603_153           Resistor smd 0603 15 kOhm
+R0603_184           Resistor smd 0603 180 kOhm
+R0603_18R           Resistor smd 0603 18 Ohm
+R0603_203           Resistor smd 0603 20 kOhm
+R0603_204           Resistor smd 0603 200 kOhm
+R0603_221           Resistor smd 0603 220 Ohm
+R0603_222           Resistor smd 0603 2.2 kOhm
+R0603_273           Resistor smd 0603 27 kOhm
+R0603_332           Resistor smd 0603 3.3 kOhm
+R0603_471           Resistor smd 0603 470 Ohm
+R0603_472           Resistor smd 0603 4.7 kOhm
+R0603_473           Resistor smd 0603 47 kOhm
+R0603_51R           Resistor smd 0603 51 Ohm
+R0603_682           Resistor smd 0603 6.8 kOhm
+R0603_683           Resistor smd 0603 68 kOhm
+R0603_822           Resistor smd 0603 8.2 kOhm
+R0603_912           Resistor smd 0603 9.1 kOhm
+R0805_0R            Resistor smd 0805 0 Ohm
+R0805_101           Resistor smd 0805 100 Ohm
+R0805_102           Resistor smd 0805 1 kOhm
+R0805_103           Resistor smd 0805 10 kOhm
+R0805_104           Resistor smd 0805 100 kOhm
+R0805_105           Resistor smd 0805 1 MOhm
+R0805_121           Resistor smd 0805 120 Ohm
+R0805_183           Resistor smd 0805 18 kOhm
+R0805_18R           Resistor smd 0805 18 Ohm
+R0805_224           Resistor smd 0805 220 kOhm
+R0805_332           Resistor smd 0805 3.3 kOhm
+R0805_334           Resistor smd 0805 330 kOhm
+R0805_392           Resistor smd 0805 3.9 kOhm
+R0805_393           Resistor smd 0805 39 kOhm
+R0805_472           Resistor smd 0805 4.7 kOhm
+R0805_473           Resistor smd 0805 47 kOhm
+R0805_474           Resistor smd 0805 470 kOhm
+R0805_562           Resistor smd 0805 5.6 kOhm
+R0805_682           Resistor smd 0805 6.8 kOhm
+R0805_683           Resistor smd 0805 68 kOhm
+R0805_822           Resistor smd 0805 8.2 kOhm
+RQ5C060BC           P-Channel Power MOSFET RQ5C060BC
+SARA-R4             SARA MODULE UBLOX
+SI2301CDS           SI2301CDS  P-Channel 20V 3.1A (Tc) 860mW (Ta), 1.6W (Tc) Surface Mount SOT-23-3 (TO-236)
+SIM39EA             
+SIM7600E-H          Multi-Band LTE-TDD/LTE-FDD/HSPA+ and GSM/GPRS/EDGE module
+SIMCARD             Connector for Multipole SIM card ,6 pin, 1.27 mm pitch PCB SMT
+SMBT3904            NPN Switching Transistor  SMBT3904 SOT-23
+SN74AVC2T245        SN74AVC2T245  Dual-Bit  Dual-Supply  Bus Transceiver  with Configurable  Level-Shifting  /  Voltage  Translation  and Tri-State  Outputs
+SN74LVC2GU04DBVR    SN74LVC2GU04DBVR  sot-23-6
+SN75176BDR          SN75176 Differential Bus TransceiverRS-485/RS-422
+SQ_SEN_390          Sensor SQ-SEN-390 On/Off Tilt sensor
+SQ_SEN_XXX          Tilt Detect Switch SQ-SEN-XXX
+STM32F072RBT6       
+SUPERCAP_0F22       Capacitor Radial Stacked Coin 0.22 F 5.5V Double Layer
+SW-SPST             Single-Pole, Single-Throw Switch
+SW-SPST_4P          Single-Pole, Single-Throw Switch
+TESTPOINT           Testpoint open pad 1mm diameter round
+TILT_SEN_PCB        
+TPL5010             IC TPL5010QDDCRQ1 Programmable timer W/Watchdog SOT-23-6
+TPL511X             TPL511x  ic Timer and one shot programmable timeout
+TPS4H000AQP         TPS4H000AQPWPRQ1  40-V, 1000-mO Quad-Channel Smart High-Side Switch
+TPS4H160AQPWPRQ1    
+TPS63060DSCR        TPS63060  High Input Voltage,  Buck-Boost  Converter  With 2-A Switch  Current
+TXB0102             IC VOLT-LVL TRANSL BI-DIR US8 Translator 100Mbps(TXB0102DCUR)
+TXB0104             TXB0104 Level Translator
+TXB0108PWR          IC TXB0108PWR 8 bits Logic Translator TSSOP-20
+TXS0104E            TXS0104E 4-Bit Bidirectional Voltage-Level Translator for Open-Drain and Push-Pull
+Applications
+TXS0108EPWR         IC TXS0108EPWR 8 bits Logic Translator TSSOP-20
+UFL_RECP            Connector UMCC IPEX MHF1 Receptacle (M) SMD 50 Ohm
+USBmicroB           USB micro type B 5 pins
+USBmini             USB mini type B 5 pins receptacle
+XTAL327             Oscillator CRYSTAL 32.768 KHz 12.5 pF SMD
+XTAL8M_2P           Oscillator CRYSTAL 8.0 MHz 16 pF SMD
+XTAL_12             Oscillator Crystal 12.000 MHz 8 PF SMD
+XTAL_12_4P          Oscillator Crystal 12.000 MHz 8 PF SMD
+brd_11u68-100P      

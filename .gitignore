@@ -1,0 +1,9 @@
+#ignore folder
+3d_lib
+History
+__Previews
+
+#ignore file
+*.zip
+*.rar
+*.wmf
