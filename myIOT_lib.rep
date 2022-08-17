@@ -1,6 +1,6 @@
 CSV text has been written to file : myIOT_lib.csv
 
-Library Component Count : 205
+Library Component Count : 226
 
 Name                Description
 ----------------------------------------------------------------------------------------------------
@@ -9,6 +9,7 @@ Name                Description
 18650BATT2          18650 Battery 2 Cell Holder SMD
 2N7002              N-channel Enhancement Mode Field-effect Transistor 2N7002
 74LVC1T45GW         IC 74LVC1T45GW-W100H Level Translator 6-TSSOP
+74LVCH2T45DC        IC 74LVCH2T45DC-Q100H Level Translator VSSOP-8
 ADR512ARTZ          ADR512ARTZ VRef Shunt Precision 1.2V SOT-23-3
 ANT_WM16803CT-ND    SMD Ant. molex WM16803CT-ND
 AP7331-SNG          300mA, LOW QUIESCENT CU  RRENT, FAST TRANSIENT   LOW DROPOUT LINEAR REGULATOR
@@ -18,11 +19,14 @@ Ant_W3544A          LTE Antenna (W3544A) 850-900/1710-2170MHz PCB Trace
 Arduino_CatNB       Arduino Shield Cat.M1/NB
 B340LA-13F          Schottky Diode B340LA-13F
 BAT54S              Diode BAT54S Schottky Barrier Rectifier Diode 30V 200mA  SOT-23
-BC95                BC95 IoT NB RF Module  Quectel
+BC95                LTE  NB-IoT Module, Model : BC95-G, Quectel
 BD48L32G            BD48L32G  Voltage Supervisor 3.2V,Open Drain ,Active LOW
 BD49L33G            IC BD49L33G-TL Power Management 1-CH 3-SSOP
 BD5291FVE-GTR       BD5291FVE-GTR  Input/Output Full Swing  Low Input Offset Voltage  Operational Amplifier
 BD9C601EFJ          
+BD9D321EFJ          
+BD9G341AEFJ         
+BD9G500EFJ          
 BG96                BG96 IoT NB/Cat.M1 RF Module  Quectel
 BLUEPILL_stm32      Arduino STM32F103C8T6 ARM STM32 with Bootloader
 BM70BLES1FC2        BM70BLES1FC2  Bluetooth 5 (BLE) Module Integrated Ant 1.9-3.6Vrate
@@ -52,6 +56,7 @@ C0805_104           Capacitor 0805 0.1 uF
 C0805_105           Capacitor 0805 1 uF
 C0805_106           Capacitor 0805 10 uF
 C0805_226           Capacitor 0805 22 uF
+CASTELLPIN          Edge Castellation PCB pin
 CLIP18650           clip 18650
 CPOL_100U           Capacitor SMD Electrolytic 100 uF
 CPOL_470U           Capacitor SMD Electrolytic 470 uF 10V
@@ -73,9 +78,11 @@ Rate Current 4A
 DC Resistance(DCR) 0.02O
 FDN327N             Transistor FDN327N N-CH 20V 2A MOSFET 0.5W
 FIDU31              
+FT231XQ-R           IC FT231XQ-R USB to Serial UART Interface w/ Dull Modem CTRL
 FT234XD             M1728 IC FT234XD-R USB to Serial UART 12DFN
 Fuse _auto          Automive Fuse Holder 19mm x5 mm
 GPS_ANT25           GNSS active antenna 25x25 mm
+Gain_block1         
 HDR27               
 Header 2            Header, 2-Pin
 Header 3            Header, 3-Pin
@@ -90,23 +97,23 @@ JP_SMD              Jumper SMD 0603 size
 Jumper              Small Jumper for (M) pin header pitch 2.0mm
 L0603_10UH          Inductor smd 0603 10uH
 L0603_10nH          Inductor SMD 0603 10 nH 650 mA WW Ceramic
-L0603_27nH          Inductor SMD 0603 27 nH 600 mA WW  
+L0603_27nH          Inductor SMD 0603 27 nH 600 mA WW
 L0603_39nH          Inductor smd 0603 39 nH
 L0603_47nH          Inductor smd 0603 47 nH
 L0603_82nH          Inductor smd 0603 82 nH
 LAN_HY911103A       ConnectorRJ45 Magnetic with 2 LEDfor 10/100
 LARA-R2             LARA MODULE UBLOX
 LDL212PVR           IC LDL212PVR Regulator LIN 1.18V 1.2A 6-WFDFN
+LED0805_BLUE        LED TO-2013BC-BF SMD Blue Water Clear 146 MCD
 LED0805_GRN         LED TO-2013BC-MGE SMD Green water clear 146 MCD
 LED0805_YLW         LED TO-2013BC-MYE SMD Yellow water clear 146 MCD
-LED3MMH_BLU         Housing LED Round 3mm,Blue Color 450mcd
-Blue Diffused Lens,Viewing Angle 38 Degree
-LED3MMH_YLW         Housing LED Round 3mm,Yellow Color 220mcd
-Yellow Diffused Lens,Viewing Angle 50 Degree
+LED3MMH_BLU         LED Housing Dia = 3mm BLUE, 450mcd
+LED3MMH_YLW         LED Housing Dia = 3mm YELLOW, 220mcd
 LED_RGB             LED RGB COMMON ANODE
 LMV431ACM5/NOPB     Low-Voltage (1.24V) Adjustable Precision Shunt Regulators, 5-pin SOT-23, Pb-Free
 LPC11U68JBD100      IC LPC11U68JBD100 MCU 32bit ARM 256KB Flash USB 100pins LQFP-100
 LPC11U68JBD48       LPC11U68JBD48  Cortex-M0+  NXP MCU
+LPC1768FBD100,551   32-Bit ARM Cortex-M3 Microcontroller, Ethernet, USB 2.0 Host / Device / OTG, CAN, 512 KB Flash, 64 KB SRAM, -40 to 85 degC, 100-Pin LQFP (SOT407-1), RoHS, Tray
 LPC1768MBED_MODULE  LPC1768 MBED MODULE
 Linkit7688          Linkit Smart 7688 (102110018) Controller
 Linkit7688duo       
@@ -118,13 +125,15 @@ MCP23017T-E/SO      16-Bit I/O Expander with Serial Interface, 28-Pin SOIC, Exte
 MCP73831T-2ACI/OT   Miniature Single-Cell, Fully Integrated Li-Ion, Li-Polymer Charge Management Controller, 4.2V, 5-Pin SOT-23, Industrial Temperature, Tape and Reel
 MCP73833T           MCP73833T Stand-Alone Linear Li-Ion / Li-Po Charge
 Management Controller
-MK22FN512VLH12      MCU K22F
+MK22FN512VLH12      IC MK22FN512VLH12 MCU 32-Bit 512KB Flash 64LQFP ARM Cortec-M4
+MK22FN512VLH12X     IC MK22FN512VLH12 MCU 32-Bit 512KB Flash 64LQFP ARM Cortec-M4
 MTH_M3              Mounting Hole M3 diameter 3.2mm
 MX25R1635FM2IH1     NOR-Flash Macronix MX25R1635FM2IH1
 MicroSIM            Connector for Micro SIM card ,8 pin, 1.27 mm pitch PCB SMT
-MicroSIM_molex      Connector for Micro SIM card ,8 pin, 1.27 mm pitch PCB SMT
+MicroSIM_molex      Connector Micro SIM Card Hinged Lid 6-Contact 1.6mm Height
 Modem_ICS           
 NSR1020MW2          Schottky Diode NSR1020MW2
+NTC_10K             NTC 10K , 2-Pin
 NTLJF3117PT1G       Power MOSFET P-CH with Schottky Diode
 PCA9306             IC VOLT-LVL TRANSL PCA9306DTR2G Translator TSSOP-8
 PCB_TERM            
@@ -181,20 +190,26 @@ R0805_562           Resistor smd 0805 5.6 kOhm
 R0805_682           Resistor smd 0805 6.8 kOhm
 R0805_683           Resistor smd 0805 68 kOhm
 R0805_822           Resistor smd 0805 8.2 kOhm
+RB088BM200TL        RB088BM200TL Schottky Barrier Diode 200V 10A  TO-252 Common Cathode Dual
 RQ5C060BC           P-Channel Power MOSFET RQ5C060BC
-SARA-R4             SARA MODULE UBLOX
+SARA-R4             LTE NB-IoT Module, Model : SARA-R410M Cat.M1, Ublox
+SARA-U2             HSPA/GSM Module, Model : SARA-U201 for Global coverage, Ublox
+SAW400              
 SI2301CDS           SI2301CDS  P-Channel 20V 3.1A (Tc) 860mW (Ta), 1.6W (Tc) Surface Mount SOT-23-3 (TO-236)
 SIM39EA             
-SIM7600E-H          Multi-Band LTE-TDD/LTE-FDD/HSPA+ and GSM/GPRS/EDGE module
+SIM7600E-H          4G LTE Module, Model : SIM7600E-H1C, SIMCOM
 SIMCARD             Connector for Multipole SIM card ,6 pin, 1.27 mm pitch PCB SMT
 SMBT3904            NPN Switching Transistor  SMBT3904 SOT-23
 SN74AVC2T245        SN74AVC2T245  Dual-Bit  Dual-Supply  Bus Transceiver  with Configurable  Level-Shifting  /  Voltage  Translation  and Tri-State  Outputs
+SN74LVC1G3157DBVR   IC SN74LVC1G3157DBVR Analog Switch SPDT 340 MHz 1.65V to 5.5V
 SN74LVC2GU04DBVR    SN74LVC2GU04DBVR  sot-23-6
 SN75176BDR          SN75176 Differential Bus TransceiverRS-485/RS-422
 SQ_SEN_390          Sensor SQ-SEN-390 On/Off Tilt sensor
 SQ_SEN_XXX          Tilt Detect Switch SQ-SEN-XXX
 STM32F072RBT6       
+STM32F429ZIT6       ARM Cortex-M4 32-bit MCU+FPU, 225 DMIPS, 2048 kB Flash, 256 kB Internal RAM, 114 I/Os, 144-pin LQFP, -40 to 85 degC, Tray
 SUPERCAP_0F22       Capacitor Radial Stacked Coin 0.22 F 5.5V Double Layer
+SW DIP-4            DIP Switch, 4 Position, SPST
 SW-SPST             Single-Pole, Single-Throw Switch
 SW-SPST_4P          Single-Pole, Single-Throw Switch
 TESTPOINT           Testpoint open pad 1mm diameter round
@@ -211,10 +226,14 @@ TXS0104E            TXS0104E 4-Bit Bidirectional Voltage-Level Translator for Op
 Applications
 TXS0108EPWR         IC TXS0108EPWR 8 bits Logic Translator TSSOP-20
 UFL_RECP            Connector UMCC IPEX MHF1 Receptacle (M) SMD 50 Ohm
-USBmicroB           USB micro type B 5 pins
+USBmicroB           Micro USB 2.0 ReceptacleType B Connector 5 Position, R/A(Digikey:609-4618-1-ND)
+USBmicroB_ST        Micro USB 2.0 ReceptacleType B Connector 5 Position, S/T(105133-0001)
 USBmini             USB mini type B 5 pins receptacle
+W25Q16JVSSIQ        NOR-SPI Flash Winbond W25Q16JVSSIQ Power Supply 2.7V to 3.6V
 XTAL327             Oscillator CRYSTAL 32.768 KHz 12.5 pF SMD
 XTAL8M_2P           Oscillator CRYSTAL 8.0 MHz 16 pF SMD
 XTAL_12             Oscillator Crystal 12.000 MHz 8 PF SMD
 XTAL_12_4P          Oscillator Crystal 12.000 MHz 8 PF SMD
+XTAL_8_4P           Oscillator Crystal 8.000 MHz 10 PF SMD
+ZED_F9P             
 brd_11u68-100P      
