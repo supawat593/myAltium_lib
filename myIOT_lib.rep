@@ -1,6 +1,6 @@
 CSV text has been written to file : myIOT_lib.csv
 
-Library Component Count : 226
+Library Component Count : 228
 
 Name                Description
 ----------------------------------------------------------------------------------------------------
@@ -59,6 +59,7 @@ C0805_226           Capacitor 0805 22 uF
 CASTELLPIN          Edge Castellation PCB pin
 CLIP18650           clip 18650
 CPOL_100U           Capacitor SMD Electrolytic 100 uF
+CPOL_220U           Capacitor SMD Electrolytic 220 uF 50V
 CPOL_470U           Capacitor SMD Electrolytic 470 uF 10V
 DALC208             Diode DALC208SC6 Diode suppresssor 9V SOT23-6
 DMC2700UDM          DMC2700UDM 20V COMPLEMENTARY PAIR ENHANCEMENT MODE MOSFET
@@ -119,6 +120,7 @@ Linkit7688          Linkit Smart 7688 (102110018) Controller
 Linkit7688duo       
 MAX-8Q              GNSS Module, Model : MAX-8Q with GPS, Ublox
 MAX3232CSE          3.0V TO 5.5V, Low-Power, up to 1Mbps, True RS-232 Transceiver Using Four 0.1µF External Capacitor
+MBRS540T3G          Schottky DiodeMBRS540T3G 40V/5A
 MCP121T             MCP121T-300E/LB Micropower Voltage Supervisor 2.93V,Active LOW
 MCP16251            Low Quiescent Current, PFM/PWM Synchronous Boost Regulator sot23-6
 MCP23017T-E/SO      16-Bit I/O Expander with Serial Interface, 28-Pin SOIC, Extended Temperature, Tape and Reel
