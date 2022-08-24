@@ -1,14 +1,14 @@
-Component   : XTAL_3.2X2.5mm
+Component   : DO-214AB
 PCB Library : ADNB95C.PcbLib
-Date        : 17-Aug-22
-Time        : 23:18:12
+Date        : 24-Aug-22
+Time        : 17:23:52
 
 
 
-Dimension : 3.505 x 12.446 mm
+Dimension : 9.5504 x 6.858 mm
 
  Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
 --------------------------------------------------------------------
- Top Overlay                 0          4        0       0        0
+ Top Overlay                 0          6        0       1        0
 --------------------------------------------------------------------
- Total                       0          4        0       0        0
+ Total                       0          6        0       1        0

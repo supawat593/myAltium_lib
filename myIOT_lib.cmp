@@ -1,15 +1,14 @@
-Component Name : Gain_block1
+Component Name : MBRS540T3G
 
 Part Count : 2
 
-Part : U?
+Part : D?
      Pins - (Normal) : 0
           Hidden Pins : 
 
-Part : U?
-     Pins - (Normal) : 3
-          in             1              Passive
-          out            3              Passive
-          GND            2,4            Passive
+Part : D?
+     Pins - (Normal) : 2
+          A              2              Passive
+          K              1              Passive
           Hidden Pins : 
 

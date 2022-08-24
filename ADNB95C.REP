@@ -1,10 +1,10 @@
 PCB Library : ADNB95C.PcbLib
-Date        : 17-Aug-22
-Time        : 23:18:33
+Date        : 24-Aug-22
+Time        : 17:23:59
 
 
 
-Component Count : 227
+Component Count : 229
 
 Component Name
 -----------------------------------------------
@@ -67,6 +67,7 @@ DG126-5.0-02P
 DIPSW_SMD2P
 DIPSW_SMD4P
 DO-41
+DO-214AB
 E-CAP6.3 - w/o3D
 E-CAP6.3X
 E-CAP6.3X5.5
@@ -74,6 +75,7 @@ E-CAP6.3X5.5_NC
 E-CAP8X
 E-CAP8X10
 E-CAP8X10_NC
+E-CAP10X10
 EDGE26
 EDGECARD26
 ELS61
