@@ -1,6 +1,6 @@
 CSV text has been written to file : myIOT_lib.csv
 
-Library Component Count : 228
+Library Component Count : 234
 
 Name                Description
 ----------------------------------------------------------------------------------------------------
@@ -34,12 +34,12 @@ BQ24210             bq24210 800-mA, Single-Input, Single-Cell Li-Ion Battery Sol
 BSS84               P-channel Enhancement Mode Vertical D-MOSFET BSS84
 Brd_BME280          Module BME280
 Brd_GY9250          Module GY9250
-C0603_100           Capacitor 0603 10 pF
+C0603_100           Capacitor 0603 10 pF 50V
 C0603_101           Capacitor 0603 100 pF
 C0603_102           Capacitor 0603 1000 pF
-C0603_103           Capacitor 0603 10000 pF
+C0603_103           Capacitor 0603 10000 pF 50V
 C0603_104           Capacitor 0603 0.1 uF
-C0603_105           Capacitor 0603 1 uF
+C0603_105           Capacitor 0603 1 uF 50V
 C0603_120           Capacitor 0603 12 pF
 C0603_150           Capacitor 0603 15 pF
 C0603_180           Capacitor 0603 18 pF
@@ -56,6 +56,12 @@ C0805_104           Capacitor 0805 0.1 uF
 C0805_105           Capacitor 0805 1 uF
 C0805_106           Capacitor 0805 10 uF
 C0805_226           Capacitor 0805 22 uF
+C1206_105           Capacitor 1206 1 uF 50V
+C1206_106           Capacitor 1206 10 uF 50V
+C1210_105           Capacitor 1210 1 uF 100V
+C1210_106           Capacitor 1210 10 uF 50V
+C2220_106           Capacitor 2220 10 uF 100V
+C2220_225           Capacitor 2220 2.2 uF 100V
 CASTELLPIN          Edge Castellation PCB pin
 CLIP18650           clip 18650
 CPOL_100U           Capacitor SMD Electrolytic 100 uF
@@ -74,7 +80,7 @@ ESIM                MFF2 5x6 mm eSIM QFN-8
 FB0603_300_1A       Ferrite SMD 0603 30 Ohm 1000MA BLM18PG300SN1D Murata
 FB0603_601_1A       Ferrite Bead SMD 0603 600 Ohm MPZ1608S601A TDK
 FB0603_680_1A       Ferrite SMD 0603 68 Ohm 1A MI0603J680Rm10
-FB0805_101_4A       Chip Beads for Power Line 100O?25%,
+FB0805_101_4A       Chip Beads for Power Line 100O±25%,
 Rate Current 4A
 DC Resistance(DCR) 0.02O
 FDN327N             Transistor FDN327N N-CH 20V 2A MOSFET 0.5W
@@ -119,7 +125,7 @@ LPC1768MBED_MODULE  LPC1768 MBED MODULE
 Linkit7688          Linkit Smart 7688 (102110018) Controller
 Linkit7688duo       
 MAX-8Q              GNSS Module, Model : MAX-8Q with GPS, Ublox
-MAX3232CSE          3.0V TO 5.5V, Low-Power, up to 1Mbps, True RS-232 Transceiver Using Four 0.1?F External Capacitor
+MAX3232CSE          3.0V TO 5.5V, Low-Power, up to 1Mbps, True RS-232 Transceiver Using Four 0.1µF External Capacitor
 MBRS540T3G          Schottky DiodeMBRS540T3G 40V/5A
 MCP121T             MCP121T-300E/LB Micropower Voltage Supervisor 2.93V,Active LOW
 MCP16251            Low Quiescent Current, PFM/PWM Synchronous Boost Regulator sot23-6
@@ -139,11 +145,11 @@ NTC_10K             NTC 10K , 2-Pin
 NTLJF3117PT1G       Power MOSFET P-CH with Schottky Diode
 PCA9306             IC VOLT-LVL TRANSL PCA9306DTR2G Translator TSSOP-8
 PCB_TERM            
-PDZV3.6A            PDZV3.6A  Zener Diode 3.6V 1W ?6.19% Surface Mount PMDTM
-PDZV4.3A            PDZV4.3A  Zener Diode 4.3V 1W ?6.19% Surface Mount PMDTM
-PDZV5.1A            PDZV5.1A  Zener Diode 5.1V 1W ?6.19% Surface Mount PMDTM
+PDZV3.6A            PDZV3.6A  Zener Diode 3.6V 1W ±6.19% Surface Mount PMDTM
+PDZV4.3A            PDZV4.3A  Zener Diode 4.3V 1W ±6.19% Surface Mount PMDTM
+PDZV5.1A            PDZV5.1A  Zener Diode 5.1V 1W ±6.19% Surface Mount PMDTM
 PDZV5.6A            Diode PDZVTR5.6A Zener 5.65V 1W SOD-128
-PDZV9.1A            PDZV9.1A  Zener Diode 9.1V 1W ?6.19% Surface Mount PMDTM
+PDZV9.1A            PDZV9.1A  Zener Diode 9.1V 1W ±6.19% Surface Mount PMDTM
 PESD5V0U1UB         ESD PESD5V0V1BB  SOD523
 R0603_0R            Resistor smd 0603 0 Ohm
 R0603_101           Resistor smd 0603 100 Ohm
