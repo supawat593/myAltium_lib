@@ -1,4 +1,4 @@
-Component Name : MBRS540T3G
+Component Name : DIO_RB088BM200TL
 
 Part Count : 2
 
@@ -7,8 +7,9 @@ Part : D?
           Hidden Pins : 
 
 Part : D?
-     Pins - (Normal) : 2
-          A              2              Passive
-          K              1              Passive
+     Pins - (Normal) : 3
+          A1             1              Passive
+          K              2              Passive
+          A2             3              Passive
           Hidden Pins : 
 

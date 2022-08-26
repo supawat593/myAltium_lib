@@ -68,13 +68,16 @@ CPOL_100U           Capacitor SMD Electrolytic 100 uF
 CPOL_220U           Capacitor SMD Electrolytic 220 uF 50V
 CPOL_470U           Capacitor SMD Electrolytic 470 uF 10V
 DALC208             Diode DALC208SC6 Diode suppresssor 9V SOT23-6
+DIO 1N4148          Diode 1N4148WS-7 Switch  SOD323 75V
+DIO BAT60AE         BAT60AE6327INCT-ND Schottky Diode 10V 2A SOD-323
+DIO_MBRS540T3G      Schottky Diode MBRS540T3G 40V/5A
+DIO_NSR1020MW2      Schottky Diode NSR1020MW2
+DIO_RB088BM200TL    RB088BM200TL Schottky Barrier Diode 200V 10A  TO-252 Common Cathode Dual
+DIO_RB550VAM        Schottky Diode RB550VAM
 DMC2700UDM          DMC2700UDM 20V COMPLEMENTARY PAIR ENHANCEMENT MODE MOSFET
 DMG6601LVT-7        DMG6601LVT-7COMPLEMENTARY PAIR ENHANCEMENT MODE MOSFET
 DTC143ZCAT116       DTC143ZCAT116 
 Digital Transistor NPN 50V/100mA,200mW 4.7kO and 47kO Built-in Bias Resistors
-D_RB550VAM          Schottky Diode RB550VAM
-Diode 1N4148        Diode 1N4148WS-7 Switch  SOD323 75V
-Diode BAT60AE       BAT60AE6327INCT-ND Schottky Diode 10V 2A SOD-323
 ELS61               
 ESIM                MFF2 5x6 mm eSIM QFN-8
 FB0603_300_1A       Ferrite SMD 0603 30 Ohm 1000MA BLM18PG300SN1D Murata
@@ -85,6 +88,7 @@ Rate Current 4A
 DC Resistance(DCR) 0.02O
 FDN327N             Transistor FDN327N N-CH 20V 2A MOSFET 0.5W
 FIDU31              
+FIL_SAW400          
 FT231XQ-R           IC FT231XQ-R USB to Serial UART Interface w/ Dull Modem CTRL
 FT234XD             M1728 IC FT234XD-R USB to Serial UART 12DFN
 Fuse _auto          Automive Fuse Holder 19mm x5 mm
@@ -126,7 +130,6 @@ Linkit7688          Linkit Smart 7688 (102110018) Controller
 Linkit7688duo       
 MAX-8Q              GNSS Module, Model : MAX-8Q with GPS, Ublox
 MAX3232CSE          3.0V TO 5.5V, Low-Power, up to 1Mbps, True RS-232 Transceiver Using Four 0.1µF External Capacitor
-MBRS540T3G          Schottky DiodeMBRS540T3G 40V/5A
 MCP121T             MCP121T-300E/LB Micropower Voltage Supervisor 2.93V,Active LOW
 MCP16251            Low Quiescent Current, PFM/PWM Synchronous Boost Regulator sot23-6
 MCP23017T-E/SO      16-Bit I/O Expander with Serial Interface, 28-Pin SOIC, Extended Temperature, Tape and Reel
@@ -140,16 +143,10 @@ MX25R1635FM2IH1     NOR-Flash Macronix MX25R1635FM2IH1
 MicroSIM            Connector for Micro SIM card ,8 pin, 1.27 mm pitch PCB SMT
 MicroSIM_molex      Connector Micro SIM Card Hinged Lid 6-Contact 1.6mm Height
 Modem_ICS           
-NSR1020MW2          Schottky Diode NSR1020MW2
 NTC_10K             NTC 10K , 2-Pin
 NTLJF3117PT1G       Power MOSFET P-CH with Schottky Diode
 PCA9306             IC VOLT-LVL TRANSL PCA9306DTR2G Translator TSSOP-8
 PCB_TERM            
-PDZV3.6A            PDZV3.6A  Zener Diode 3.6V 1W ±6.19% Surface Mount PMDTM
-PDZV4.3A            PDZV4.3A  Zener Diode 4.3V 1W ±6.19% Surface Mount PMDTM
-PDZV5.1A            PDZV5.1A  Zener Diode 5.1V 1W ±6.19% Surface Mount PMDTM
-PDZV5.6A            Diode PDZVTR5.6A Zener 5.65V 1W SOD-128
-PDZV9.1A            PDZV9.1A  Zener Diode 9.1V 1W ±6.19% Surface Mount PMDTM
 PESD5V0U1UB         ESD PESD5V0V1BB  SOD523
 R0603_0R            Resistor smd 0603 0 Ohm
 R0603_101           Resistor smd 0603 100 Ohm
@@ -198,11 +195,9 @@ R0805_562           Resistor smd 0805 5.6 kOhm
 R0805_682           Resistor smd 0805 6.8 kOhm
 R0805_683           Resistor smd 0805 68 kOhm
 R0805_822           Resistor smd 0805 8.2 kOhm
-RB088BM200TL        RB088BM200TL Schottky Barrier Diode 200V 10A  TO-252 Common Cathode Dual
 RQ5C060BC           P-Channel Power MOSFET RQ5C060BC
 SARA-R4             LTE NB-IoT Module, Model : SARA-R410M Cat.M1, Ublox
 SARA-U2             HSPA/GSM Module, Model : SARA-U201 for Global coverage, Ublox
-SAW400              
 SI2301CDS           SI2301CDS  P-Channel 20V 3.1A (Tc) 860mW (Ta), 1.6W (Tc) Surface Mount SOT-23-3 (TO-236)
 SIM39EA             
 SIM7600E-H          4G LTE Module, Model : SIM7600E-H1C, SIMCOM
@@ -243,5 +238,10 @@ XTAL8M_2P           Oscillator CRYSTAL 8.0 MHz 16 pF SMD
 XTAL_12             Oscillator Crystal 12.000 MHz 8 PF SMD
 XTAL_12_4P          Oscillator Crystal 12.000 MHz 8 PF SMD
 XTAL_8_4P           Oscillator Crystal 8.000 MHz 10 PF SMD
+ZD_PDZV3.6A         PDZV3.6A  Zener Diode 3.6V 1W ±6.19% Surface Mount PMDTM
+ZD_PDZV4.3A         PDZV4.3A  Zener Diode 4.3V 1W ±6.19% Surface Mount PMDTM
+ZD_PDZV5.1A         PDZV5.1A  Zener Diode 5.1V 1W ±6.19% Surface Mount PMDTM
+ZD_PDZV5.6A         Diode PDZVTR5.6A Zener 5.65V 1W SOD-128
+ZD_PDZV9.1A         PDZV9.1A  Zener Diode 9.1V 1W ±6.19% Surface Mount PMDTM
 ZED_F9P             
 brd_11u68-100P      

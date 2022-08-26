@@ -1,0 +1,41 @@
+Altium Designer System: Library Component Rule Check
+PCB File : ADNB95C
+Date     : 26-Aug-22
+Time     : 12:13:50
+
+
+Name                Warnings
+------------------------------------------------------------------
+S-PWSON-N10              Duplicate Pad Name On Pads Pad Free-11(0.435mm,0.56mm) on Top Layer And Pad Free-11(0.435mm,-0.56mm) on Top Layer
+S-PWSON-N10              Duplicate Pad Name On Pads Pad Free-11(-0.435mm,0.56mm) on Top Layer And Pad Free-11(0.435mm,-0.56mm) on Top Layer
+S-PWSON-N10              Duplicate Pad Name On Pads Pad Free-11(-0.435mm,-0.56mm) on Top Layer And Pad Free-11(0.435mm,-0.56mm) on Top Layer
+
+SOT-89-MB3_M             Duplicate Pad Name On Pads Pad Free-2(1mm,0mm) on Top Layer And Pad Free-2(-1.7mm,0mm) on Top Layer
+
+10-WSON (3x3)            Duplicate Pad Name On Pads Pad Free-11(0.425mm,-0.55mm) on Top Layer And Pad Free-11(-0.425mm,0.55mm) on Top Layer
+10-WSON (3x3)            Duplicate Pad Name On Pads Pad Free-11(-0.425mm,-0.55mm) on Top Layer And Pad Free-11(-0.425mm,0.55mm) on Top Layer
+10-WSON (3x3)            Duplicate Pad Name On Pads Pad Free-11(0.425mm,0.55mm) on Top Layer And Pad Free-11(-0.425mm,0.55mm) on Top Layer
+
+UFL_recep_SMT            Duplicate Primitives: Track (0mm,2.3mm)(0.5mm,1.8mm) on Mechanical 15 And Track (0mm,2.3mm)(0.5mm,1.8mm) on Mechanical 15
+
+Keystone_3557-2          Duplicate Pad Name On Pads Pad Free-2(6.75mm,-1.7mm) on Multi-Layer And Pad Free-2(6.75mm,1.7mm) on Multi-Layer
+Keystone_3557-2          Duplicate Pad Name On Pads Pad Free-1(-6.75mm,-1.7mm) on Multi-Layer And Pad Free-1(-6.75mm,1.7mm) on Multi-Layer
+
+PCB_TERM_TAB635          Duplicate Pad Name On Pads Pad Free-1(2.5mm,0mm) on Multi-Layer And Pad Free-1(-2.5mm,0mm) on Multi-Layer
+
+MOLEX-0475532001         Duplicate Pad Name On Pads Pad Free-10(-21.46999mm,11.14995mm) on Multi-Layer And Pad Free-10(-11.67001mm,-4.90005mm) on Multi-Layer
+
+TACTILE-OMRON/WE         Duplicate Pad Name On Pads Pad Free-2(2.1mm,-3.625mm) on Top Layer And Pad Free-2(2.1mm,3.625mm) on Top Layer
+TACTILE-OMRON/WE         Duplicate Pad Name On Pads Pad Free-1(-2.1mm,-3.625mm) on Top Layer And Pad Free-1(-2.1mm,3.625mm) on Top Layer
+TACTILE-OMRON/WE         Duplicate Pad Name On Pads Pad Free-1(-2.5mm,1.8mm) on Top Overlay And Pad Free-1(-2.1mm,3.625mm) on Top Layer
+TACTILE-OMRON/WE         Duplicate Pad Name On Pads Pad Free-1(2.5mm,1.8mm) on Top Overlay And Pad Free-1(-2.1mm,3.625mm) on Top Layer
+TACTILE-OMRON/WE         Duplicate Pad Name On Pads Pad Free-1(-2.5mm,-1.8mm) on Top Overlay And Pad Free-1(-2.1mm,3.625mm) on Top Layer
+TACTILE-OMRON/WE         Duplicate Pad Name On Pads Pad Free-1(2.5mm,-1.8mm) on Top Overlay And Pad Free-1(-2.1mm,3.625mm) on Top Layer
+
+TACTILE, 6 x 6mm, SMT    Duplicate Pad Name On Pads Pad Free-1(-2.25004mm,4.55005mm) on Top Layer And Pad Free-1(-2.25004mm,-4.54995mm) on Top Layer
+TACTILE, 6 x 6mm, SMT    Duplicate Pad Name On Pads Pad Free-2(2.24998mm,4.55005mm) on Top Layer And Pad Free-2(2.24998mm,-4.54995mm) on Top Layer
+TACTILE, 6 x 6mm, SMT    Duplicate Pad Name On Pads Pad Free-1(2.26456mm,2.18923mm) on Top Overlay And Pad Free-1(-2.25004mm,-4.54995mm) on Top Layer
+TACTILE, 6 x 6mm, SMT    Duplicate Pad Name On Pads Pad Free-1(-2.23541mm,2.18923mm) on Top Overlay And Pad Free-1(-2.25004mm,-4.54995mm) on Top Layer
+TACTILE, 6 x 6mm, SMT    Duplicate Pad Name On Pads Pad Free-1(-2.23541mm,-2.31079mm) on Top Overlay And Pad Free-1(-2.25004mm,-4.54995mm) on Top Layer
+TACTILE, 6 x 6mm, SMT    Duplicate Pad Name On Pads Pad Free-1(2.16459mm,-2.31079mm) on Top Overlay And Pad Free-1(-2.25004mm,-4.54995mm) on Top Layer
+
