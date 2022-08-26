@@ -18,7 +18,6 @@ AT45DB161E          AT45DB161E-SUD-T Flash Memory 16M, 2.5-3.6V SPI SOIC-8
 Ant_W3544A          LTE Antenna (W3544A) 850-900/1710-2170MHz PCB Trace
 Arduino_CatNB       Arduino Shield Cat.M1/NB
 B340LA-13F          Schottky Diode B340LA-13F
-BAT54S              Diode BAT54S Schottky Barrier Rectifier Diode 30V 200mA  SOT-23
 BC95                LTE  NB-IoT Module, Model : BC95-G, Quectel
 BD48L32G            BD48L32G  Voltage Supervisor 3.2V,Open Drain ,Active LOW
 BD49L33G            IC BD49L33G-TL Power Management 1-CH 3-SSOP
@@ -68,8 +67,9 @@ CPOL_100U           Capacitor SMD Electrolytic 100 uF
 CPOL_220U           Capacitor SMD Electrolytic 220 uF 50V
 CPOL_470U           Capacitor SMD Electrolytic 470 uF 10V
 DALC208             Diode DALC208SC6 Diode suppresssor 9V SOT23-6
-DIO 1N4148          Diode 1N4148WS-7 Switch  SOD323 75V
-DIO BAT60AE         BAT60AE6327INCT-ND Schottky Diode 10V 2A SOD-323
+DIO_1N4148          Diode 1N4148WS-7 Switch  SOD323 75V
+DIO_BAT54S          Diode BAT54S Schottky Barrier Rectifier Diode 30V 200mA  SOT-23
+DIO_BAT60AE         BAT60AE6327INCT-ND Schottky Diode 10V 2A SOD-323
 DIO_MBRS540T3G      Schottky Diode MBRS540T3G 40V/5A
 DIO_NSR1020MW2      Schottky Diode NSR1020MW2
 DIO_RB088BM200TL    RB088BM200TL Schottky Barrier Diode 200V 10A  TO-252 Common Cathode Dual
