@@ -1,15 +1,14 @@
-Component Name : DIO_RB088BM200TL
+Component Name : R0603_331
 
 Part Count : 2
 
-Part : D?
+Part : R?
      Pins - (Normal) : 0
           Hidden Pins : 
 
-Part : D?
-     Pins - (Normal) : 3
-          A1             1              Passive
-          K              2              Passive
-          A2             3              Passive
+Part : R?
+     Pins - (Normal) : 2
+          2              2              Passive
+          1              1              Passive
           Hidden Pins : 
 
