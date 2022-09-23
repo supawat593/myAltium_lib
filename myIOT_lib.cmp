@@ -1,14 +1,14 @@
-Component Name : R0603_331
+Component Name : IND_3U3H
 
 Part Count : 2
 
-Part : R?
+Part : L?
      Pins - (Normal) : 0
           Hidden Pins : 
 
-Part : R?
+Part : L?
      Pins - (Normal) : 2
-          2              2              Passive
           1              1              Passive
+          2              2              Passive
           Hidden Pins : 
 
