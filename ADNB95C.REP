@@ -1,10 +1,10 @@
 PCB Library : ADNB95C.PcbLib
-Date        : 13-Sep-22
-Time        : 20:51:49
+Date        : 24-Sep-22
+Time        : 22:35:12
 
 
 
-Component Count : 210
+Component Count : 209
 
 Component Name
 -----------------------------------------------
@@ -97,7 +97,6 @@ HOLE_M3
 HTSOP-J8
 INDP3030X15N
 INDP4040X12N
-INDP4040X12N_NC
 INDP4949X31N
 INDP100100X40N
 INDP120120X67N
