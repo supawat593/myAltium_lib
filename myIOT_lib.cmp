@@ -1,14 +1,29 @@
-Component Name : IND_3U3H
+Component Name : BD8306MUV-E2
 
 Part Count : 2
 
-Part : L?
+Part : U?
      Pins - (Normal) : 0
           Hidden Pins : 
 
-Part : L?
-     Pins - (Normal) : 2
-          1              1              Passive
-          2              2              Passive
+Part : U?
+     Pins - (Normal) : 17
+          FB             1              Passive
+          INV            2              Passive
+          GND            3              Passive
+          VOUT           4              Passive
+          VOUT           5              Passive
+          LX2            6              Passive
+          LX2            7              Passive
+          PGND           8              Passive
+          PGND           9              Passive
+          LX1            10             Passive
+          LX1            11             Passive
+          PVCC           12             Passive
+          PVCC           13             Passive
+          VCC            14             Passive
+          STB            15             Passive
+          RT             16             Passive
+          TPAD           0              Passive
           Hidden Pins : 
 

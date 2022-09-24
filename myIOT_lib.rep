@@ -1,6 +1,6 @@
 CSV text has been written to file : myIOT_lib.csv
 
-Library Component Count : 237
+Library Component Count : 238
 
 Name                Description
 ----------------------------------------------------------------------------------------------------
@@ -22,6 +22,7 @@ BC95                LTE  NB-IoT Module, Model : BC95-G, Quectel
 BD48L32G            BD48L32G  Voltage Supervisor 3.2V,Open Drain ,Active LOW
 BD49L33G            IC BD49L33G-TL Power Management 1-CH 3-SSOP
 BD5291FVE-GTR       BD5291FVE-GTR  Input/Output Full Swing  Low Input Offset Voltage  Operational Amplifier
+BD8306MUV-E2        BD8306MUV-E2 Buck-Boost Converter 1.8V to 5.5V integrated 2.0A
 BD9C601EFJ          
 BD9D321EFJ          
 BD9G341AEFJ         
