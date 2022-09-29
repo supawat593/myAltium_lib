@@ -1,16 +1,14 @@
-Component Name : LM1117MPX-3.3
+Component Name : C0805_331
 
 Part Count : 2
 
-Part : U?
+Part : C?
      Pins - (Normal) : 0
           Hidden Pins : 
 
-Part : U?
-     Pins - (Normal) : 4
-          GND            1              Power
-          IN             3              Power
-          OUT            2              Power
-          OUT            4              Power
+Part : C?
+     Pins - (Normal) : 2
+          1              1              Passive
+          2              2              Passive
           Hidden Pins : 
 
