@@ -1,4 +1,4 @@
-Component Name : BD8306MUV-E2
+Component Name : LM1117MPX-3.3
 
 Part Count : 2
 
@@ -7,23 +7,10 @@ Part : U?
           Hidden Pins : 
 
 Part : U?
-     Pins - (Normal) : 17
-          FB             1              Passive
-          INV            2              Passive
-          GND            3              Passive
-          VOUT           4              Passive
-          VOUT           5              Passive
-          LX2            6              Passive
-          LX2            7              Passive
-          PGND           8              Passive
-          PGND           9              Passive
-          LX1            10             Passive
-          LX1            11             Passive
-          PVCC           12             Passive
-          PVCC           13             Passive
-          VCC            14             Passive
-          STB            15             Passive
-          RT             16             Passive
-          TPAD           0              Passive
+     Pins - (Normal) : 4
+          GND            1              Power
+          IN             3              Power
+          OUT            2              Power
+          OUT            4              Power
           Hidden Pins : 
 
