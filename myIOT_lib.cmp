@@ -1,14 +1,24 @@
-Component Name : C0805_331
+Component Name : LF353D
 
-Part Count : 2
+Part Count : 3
 
-Part : C?
-     Pins - (Normal) : 0
+Part : U?
+     Pins - (Normal) : 2
+          V+             8              Power
+          V-             4              Power
           Hidden Pins : 
 
-Part : C?
-     Pins - (Normal) : 2
-          1              1              Passive
-          2              2              Passive
+Part : U?A
+     Pins - (Normal) : 3
+          IN-            2              Input
+          IN+            3              Input
+          OUT            1              Output
+          Hidden Pins : 
+
+Part : U?B
+     Pins - (Normal) : 3
+          IN+            5              Input
+          IN-            6              Input
+          OUT            7              Output
           Hidden Pins : 
 
