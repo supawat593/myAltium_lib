@@ -1,6 +1,6 @@
 CSV text has been written to file : myIOT_lib.csv
 
-Library Component Count : 242
+Library Component Count : 243
 
 Name                Description
 ----------------------------------------------------------------------------------------------------
@@ -126,6 +126,7 @@ LED0805_YLW         LED TO-2013BC-MYE SMD Yellow water clear 146 MCD
 LED3MMH_BLU         LED Housing Dia = 3mm BLUE, 450mcd
 LED3MMH_YLW         LED Housing Dia = 3mm YELLOW, 220mcd
 LED_RGB             LED RGB COMMON ANODE
+LF353D              IC LF353DR J-FET OP-AMP 2 Circuit 8-SOIC
 LM1117MPX-3.3       IC LM1117MPX-3.3/NOPB Reg LDO 3.3V 800mA SOT-223
 LMV431ACM5/NOPB     Low-Voltage (1.24V) Adjustable Precision Shunt Regulators, 5-pin SOT-23, Pb-Free
 LPC11U68JBD100      IC LPC11U68JBD100 MCU 32bit ARM 256KB Flash USB 100pins LQFP-100
