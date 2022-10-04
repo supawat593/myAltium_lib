@@ -1,24 +1,14 @@
-Component Name : LF353D
+Component Name : C0603_331
 
-Part Count : 3
+Part Count : 2
 
-Part : U?
+Part : C?
+     Pins - (Normal) : 0
+          Hidden Pins : 
+
+Part : C?
      Pins - (Normal) : 2
-          V+             8              Power
-          V-             4              Power
-          Hidden Pins : 
-
-Part : U?A
-     Pins - (Normal) : 3
-          IN-            2              Input
-          IN+            3              Input
-          OUT            1              Output
-          Hidden Pins : 
-
-Part : U?B
-     Pins - (Normal) : 3
-          IN+            5              Input
-          IN-            6              Input
-          OUT            7              Output
+          1              1              Passive
+          2              2              Passive
           Hidden Pins : 
 
