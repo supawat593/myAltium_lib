@@ -1,14 +1,14 @@
-Component Name : C0603_331
+Component Name : DIO_1N4007
 
 Part Count : 2
 
-Part : C?
+Part : D?
      Pins - (Normal) : 0
           Hidden Pins : 
 
-Part : C?
+Part : D?
      Pins - (Normal) : 2
-          1              1              Passive
-          2              2              Passive
+          A              2              Passive
+          K              1              Passive
           Hidden Pins : 
 
