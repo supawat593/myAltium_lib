@@ -1,14 +1,15 @@
-Component   : 10-WSON_2x3
+Component   : DO-41
 PCB Library : ADNB95C.PcbLib
-Date        : 24-Sep-22
-Time        : 22:34:57
+Date        : 07-Oct-22
+Time        : 00:12:33
 
 
 
-Dimension : 3.658 x 8.89 mm
+Dimension : 17.78 x 3.708 mm
 
  Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
 --------------------------------------------------------------------
- Top Overlay                 0          6        0       1        0
+ Top Overlay                 0          3        1       0        0
+ Multi Layer                 2          0        0       0        0
 --------------------------------------------------------------------
- Total                       0          6        0       1        0
+ Total                       2          3        1       0        0

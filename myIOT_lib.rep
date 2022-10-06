@@ -1,6 +1,6 @@
 CSV text has been written to file : myIOT_lib.csv
 
-Library Component Count : 244
+Library Component Count : 247
 
 Name                Description
 ----------------------------------------------------------------------------------------------------
@@ -72,6 +72,7 @@ CPOL_100U           Capacitor SMD Electrolytic 100 uF
 CPOL_220U           Capacitor SMD Electrolytic 220 uF 50V
 CPOL_470U           Capacitor SMD Electrolytic 470 uF 10V
 DALC208             Diode DALC208SC6 Diode suppresssor 9V SOT23-6
+DIO_1N4007          Diode 1N4007 Rectifier  Axial, 1000V, 1A, TSC
 DIO_1N4148          Diode 1N4148WS-7 Switch  SOD323 75V
 DIO_BAT54S          Diode BAT54S Schottky Barrier Rectifier Diode 30V 200mA  SOT-23
 DIO_BAT60AE         BAT60AE6327INCT-ND Schottky Diode 10V 2A SOD-323
@@ -118,6 +119,7 @@ L0603_27nH          Inductor SMD 0603 27 nH 600 mA WW
 L0603_39nH          Inductor smd 0603 39 nH
 L0603_47nH          Inductor smd 0603 47 nH
 L0603_82nH          Inductor smd 0603 82 nH
+L7805CD2T           IC 7805 Regulator 5V D2PAK
 LAN_HY911103A       ConnectorRJ45 Magnetic with 2 LEDfor 10/100
 LARA-R2             LARA MODULE UBLOX
 LDL212PVR           IC LDL212PVR Regulator LIN 1.18V 1.2A 6-WFDFN
@@ -205,6 +207,7 @@ R0805_562           Resistor smd 0805 5.6 kOhm
 R0805_682           Resistor smd 0805 6.8 kOhm
 R0805_683           Resistor smd 0805 68 kOhm
 R0805_822           Resistor smd 0805 8.2 kOhm
+RPOT_25T_104        Potentiometer 100 kOhm 25T
 RQ5C060BC           P-Channel Power MOSFET RQ5C060BC
 SARA-R4             LTE NB-IoT Module, Model : SARA-R410M Cat.M1, Ublox
 SARA-U2             HSPA/GSM Module, Model : SARA-U201 for Global coverage, Ublox
