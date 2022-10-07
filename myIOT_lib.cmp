@@ -1,14 +1,15 @@
-Component Name : DIO_1N4007
+Component Name : DTC143ZCAT116
 
 Part Count : 2
 
-Part : D?
+Part : Q?
      Pins - (Normal) : 0
           Hidden Pins : 
 
-Part : D?
-     Pins - (Normal) : 2
-          A              2              Passive
-          K              1              Passive
+Part : Q?
+     Pins - (Normal) : 3
+          C              3              Passive
+          B              1              Passive
+          E              2              Passive
           Hidden Pins : 
 
