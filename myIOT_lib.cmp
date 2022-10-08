@@ -1,15 +1,14 @@
-Component Name : DTC143ZCAT116
+Component Name : IND_33UH
 
 Part Count : 2
 
-Part : Q?
+Part : L?
      Pins - (Normal) : 0
           Hidden Pins : 
 
-Part : Q?
-     Pins - (Normal) : 3
-          C              3              Passive
-          B              1              Passive
-          E              2              Passive
+Part : L?
+     Pins - (Normal) : 2
+          1              1              Passive
+          2              2              Passive
           Hidden Pins : 
 
