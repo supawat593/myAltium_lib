@@ -1,6 +1,6 @@
 CSV text has been written to file : myIOT_lib.csv
 
-Library Component Count : 249
+Library Component Count : 252
 
 Name                Description
 ----------------------------------------------------------------------------------------------------
@@ -64,6 +64,7 @@ C1206_105           Capacitor 1206 1 uF 50V
 C1206_106           Capacitor 1206 10 uF 50V
 C1210_105           Capacitor 1210 1 uF 100V
 C1210_106           Capacitor 1210 10 uF 50V
+C1210_225           Capacitor SMD 1210 2.2 uF 100V 10% X7R
 C2220_106           Capacitor 2220 10 uF 100V
 C2220_225           Capacitor 2220 2.2 uF 100V
 CASTELLPIN          Edge Castellation PCB pin
@@ -76,9 +77,9 @@ DIO_1N4007          Diode 1N4007 Rectifier  Axial, 1000V, 1A, TSC
 DIO_1N4148          Diode 1N4148WS-7 Switch  SOD323 75V
 DIO_BAT54S          Diode BAT54S Schottky Barrier Rectifier Diode 30V 200mA  SOT-23
 DIO_BAT60AE         BAT60AE6327INCT-ND Schottky Diode 10V 2A SOD-323
-DIO_MBRS540T3G      Schottky Diode MBRS540T3G 40V/5A
+DIO_MBRS540T3G      DIODE MBRS540T3G SCHOTTKY 40V 5A 
 DIO_NSR1020MW2      Schottky Diode NSR1020MW2
-DIO_RB088BM200TL    RB088BM200TL Schottky Barrier Diode 200V 10A  TO-252 Common Cathode Dual
+DIO_RB088BM200TL    DIODE SCHOTTKY RB088BM200TL 200V REVERSE 10A 
 DIO_RB550VAM        Schottky Diode RB550VAM
 DMC2700UDM          DMC2700UDM 20V COMPLEMENTARY PAIR ENHANCEMENT MODE MOSFET
 DMG6601LVT-7        DMG6601LVT-7COMPLEMENTARY PAIR ENHANCEMENT MODE MOSFET
@@ -111,6 +112,7 @@ ICL7660             IC ICL7660CSA+ Regulator Charge Pump INV 20mA 8-SO
 IMH9AT110           IMH9AT110
 Dual Digital Transistor NPN 50V/100mA,10kO and 47kO Built-in Bias Resistors
 IND_1UH             Inductor Fixed Power 1uH 3A 30 mOhm 1212 SMD
+IND_33UH            INDUCTOR SMD 33 UH 4.5A POWER CHOKE 
 IND_3U3H            Inductor Fixed Power 3.3uH
 IND_4U7H            Inductor Fixed Power 4.7uH 980mA 0.117 Ohm
 JP_SMD              Jumper SMD 0603 size
@@ -141,7 +143,7 @@ LPC1768MBED_MODULE  LPC1768 MBED MODULE
 Linkit7688          Linkit Smart 7688 (102110018) Controller
 Linkit7688duo       
 MAX-8Q              GNSS Module, Model : MAX-8Q with GPS, Ublox
-MAX3232CSE          3.0V TO 5.5V, Low-Power, up to 1Mbps, True RS-232 Transceiver Using Four 0.1µF External Capacitor
+MAX3232CSE          3.0V TO 5.5V, Low-Power, up to 1Mbps, True RS-232 Transceiver Using Four 0.1?F External Capacitor
 MCP121T             MCP121T-300E/LB Micropower Voltage Supervisor 2.93V,Active LOW
 MCP16251            Low Quiescent Current, PFM/PWM Synchronous Boost Regulator sot23-6
 MCP23017T-E/SO      16-Bit I/O Expander with Serial Interface, 28-Pin SOIC, Extended Temperature, Tape and Reel
@@ -209,7 +211,8 @@ R0805_562           Resistor smd 0805 5.6 kOhm
 R0805_682           Resistor smd 0805 6.8 kOhm
 R0805_683           Resistor smd 0805 68 kOhm
 R0805_822           Resistor smd 0805 8.2 kOhm
-RPOT_25T_104        Potentiometer 100 kOhm 25T
+RPOT_25T_104        Potentiometer 100 kOhm 25T Top Adj.
+RPOT_25T_202        Potentiometer 2 kOhm 25T Top Adj.
 RQ5C060BC           P-Channel Power MOSFET RQ5C060BC
 SARA-R4             LTE NB-IoT Module, Model : SARA-R410M Cat.M1, Ublox
 SARA-U2             HSPA/GSM Module, Model : SARA-U201 for Global coverage, Ublox
@@ -253,10 +256,10 @@ XTAL8M_2P           Oscillator CRYSTAL 8.0 MHz 16 pF SMD
 XTAL_12             Oscillator Crystal 12.000 MHz 8 PF SMD
 XTAL_12_4P          Oscillator Crystal 12.000 MHz 8 PF SMD
 XTAL_8_4P           Oscillator Crystal 8.000 MHz 10 PF SMD
-ZD_PDZV3.6A         PDZV3.6A  Zener Diode 3.6V 1W ±6.19% Surface Mount PMDTM
-ZD_PDZV4.3A         PDZV4.3A  Zener Diode 4.3V 1W ±6.19% Surface Mount PMDTM
-ZD_PDZV5.1A         PDZV5.1A  Zener Diode 5.1V 1W ±6.19% Surface Mount PMDTM
+ZD_PDZV3.6A         PDZV3.6A  Zener Diode 3.6V 1W ?6.19% Surface Mount PMDTM
+ZD_PDZV4.3A         PDZV4.3A  Zener Diode 4.3V 1W ?6.19% Surface Mount PMDTM
+ZD_PDZV5.1A         PDZV5.1A  Zener Diode 5.1V 1W ?6.19% Surface Mount PMDTM
 ZD_PDZV5.6A         Diode PDZVTR5.6A Zener 5.65V 1W SOD-128
-ZD_PDZV9.1A         PDZV9.1A  Zener Diode 9.1V 1W ±6.19% Surface Mount PMDTM
+ZD_PDZV9.1A         PDZV9.1A  Zener Diode 9.1V 1W ?6.19% Surface Mount PMDTM
 ZED_F9P             
 brd_11u68-100P      
