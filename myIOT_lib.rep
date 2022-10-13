@@ -1,6 +1,6 @@
 CSV text has been written to file : myIOT_lib.csv
 
-Library Component Count : 254
+Library Component Count : 153
 
 Name                Description
 ----------------------------------------------------------------------------------------------------
@@ -17,7 +17,6 @@ AP7361C             AP7361C-FGE-7   Low Dropout Adjustable 1A Regulator
 AT45DB161E          AT45DB161E-SUD-T Flash Memory 16M, 2.5-3.6V SPI SOIC-8
 Ant_W3544A          LTE Antenna (W3544A) 850-900/1710-2170MHz PCB Trace
 Arduino_CatNB       Arduino Shield Cat.M1/NB
-B340LA-13F          Schottky Diode B340LA-13F
 BC95                LTE  NB-IoT Module, Model : BC95-G, Quectel
 BD48L32G            BD48L32G  Voltage Supervisor 3.2V,Open Drain ,Active LOW
 BD49L33G            IC BD49L33G-TL Power Management 1-CH 3-SSOP
@@ -25,8 +24,8 @@ BD5291FVE-GTR       BD5291FVE-GTR  Input/Output Full Swing  Low Input Offset Vol
 BD8306MUV-E2        BD8306MUV-E2 Buck-Boost Converter 1.8V to 5.5V integrated 2.0A
 BD9C601EFJ          
 BD9D321EFJ          
-BD9G341AEFJ         
-BD9G500EFJ          
+BD9G341AEFJ         IC BD9G341AEFJ-E2 REGULATOR 12-76V 3A
+BD9G500EFJ          IC BD9G500EFJ-LAE2 REGULATOR 12-76V 5A
 BG96                BG96 IoT NB/Cat.M1 RF Module  Quectel
 BLUEPILL_stm32      Arduino STM32F103C8T6 ARM STM32 with Bootloader
 BM70BLES1FC2        BM70BLES1FC2  Bluetooth 5 (BLE) Module Integrated Ant 1.9-3.6Vrate
@@ -34,54 +33,9 @@ BQ24210             bq24210 800-mA, Single-Input, Single-Cell Li-Ion Battery Sol
 BSS84               P-channel Enhancement Mode Vertical D-MOSFET BSS84
 Brd_BME280          Module BME280
 Brd_GY9250          Module GY9250
-C0603_080           Capacitor 0603 8 pF
-C0603_100           Capacitor 0603 10 pF 50V
-C0603_101           Capacitor 0603 100 pF
-C0603_102           Capacitor 0603 1000 pF
-C0603_103           Capacitor 0603 10000 pF 50V
-C0603_104           Capacitor 0603 0.1 uF
-C0603_105           Capacitor 0603 1 uF 50V
-C0603_120           Capacitor 0603 12 pF
-C0603_150           Capacitor 0603 15 pF
-C0603_180           Capacitor 0603 18 pF
-C0603_220           Capacitor 0603 22 pF 50V
-C0603_270           Capacitor 0603 27 pF
-C0603_330           Capacitor 0603 33 pF
-C0603_331           Capacitor 0603 330 pF 50V
-C0603_470           Capacitor 0603 47 pF
-C0603_472           Capacitor 0603 4700 pF 50V
-C0603_560           Capacitor 0603 56 pF
-C0603_680           Capacitor 0603 68 pF
-C0603_820           Capacitor 0603 82 pF
-C0805_102           Capacitor 0805 1 nF
-C0805_104           Capacitor 0805 0.1 uF
-C0805_105           Capacitor 0805 1 uF
-C0805_106           Capacitor 0805 10 uF
-C0805_220           Capacitor 0805 22 pF 50V
-C0805_226           Capacitor 0805 22 uF
-C0805_331           Capacitor 0805 330 pF 50V
-C1206_105_100V      Capacitor 1206 1 uF 100V X7R
-C1206_105_50V       Capacitor 1206 1 uF 50V
-C1206_106_50V       Capacitor 1206 10 uF 50V
-C1210_105_100V      Capacitor 1210 1 uF 100V
-C1210_106_50V       Capacitor 1210 10 uF 50V
-C1210_225_100V      Capacitor SMD 1210 2.2 uF 100V 10% X7R
-C2220_106           Capacitor 2220 10 uF 100V
-C2220_225           Capacitor 2220 2.2 uF 100V
 CASTELLPIN          Edge Castellation PCB pin
 CLIP18650           clip 18650
-CPOL_100U           Capacitor SMD Electrolytic 100 uF
-CPOL_220U           Capacitor SMD Electrolytic 220 uF 50V
-CPOL_470U           Capacitor SMD Electrolytic 470 uF 10V
 DALC208             Diode DALC208SC6 Diode suppresssor 9V SOT23-6
-DIO_1N4007          Diode 1N4007 Rectifier  Axial, 1000V, 1A, TSC
-DIO_1N4148          Diode 1N4148WS-7 Switch  SOD323 75V
-DIO_BAT54S          Diode BAT54S Schottky Barrier Rectifier Diode 30V 200mA  SOT-23
-DIO_BAT60AE         BAT60AE6327INCT-ND Schottky Diode 10V 2A SOD-323
-DIO_MBRS540T3G      DIODE MBRS540T3G SCHOTTKY 40V 5A
-DIO_NSR1020MW2      Schottky Diode NSR1020MW2
-DIO_RB088BM200TL    DIODE SCHOTTKY RB088BM200TL 200V REVERSE 10A
-DIO_RB550VAM        Schottky Diode RB550VAM
 DMC2700UDM          DMC2700UDM 20V COMPLEMENTARY PAIR ENHANCEMENT MODE MOSFET
 DMG6601LVT-7        DMG6601LVT-7COMPLEMENTARY PAIR ENHANCEMENT MODE MOSFET
 DTC143ZCAT116       DTC143ZCAT116 
@@ -164,55 +118,6 @@ NTLJF3117PT1G       Power MOSFET P-CH with Schottky Diode
 PCA9306             IC VOLT-LVL TRANSL PCA9306DTR2G Translator TSSOP-8
 PCB_TERM            
 PESD5V0U1UB         ESD PESD5V0V1BB  SOD523
-R0603_0R            Resistor smd 0603 0 Ohm
-R0603_101           Resistor smd 0603 100 Ohm
-R0603_102           Resistor smd 0603 1 kOhm
-R0603_103           Resistor smd 0603 10 kOhm
-R0603_104           Resistor smd 0603 100 kOhm
-R0603_105           Resistor smd 0603 1 MOhm
-R0603_10R           Resistor smd 0603 10 Ohm
-R0603_123           Resistor smd 0603 12 kOhm
-R0603_151           Resistor smd 0603 150 Ohm
-R0603_153           Resistor smd 0603 15 kOhm
-R0603_184           Resistor smd 0603 180 kOhm
-R0603_18R           Resistor smd 0603 18 Ohm
-R0603_203           Resistor smd 0603 20 kOhm
-R0603_204           Resistor smd 0603 200 kOhm
-R0603_221           Resistor smd 0603 220 Ohm
-R0603_222           Resistor smd 0603 2.2 kOhm
-R0603_273           Resistor smd 0603 27 kOhm
-R0603_331           Resistor smd 0603 330 Ohm
-R0603_332           Resistor smd 0603 3.3 kOhm
-R0603_391           Resistor smd 0603 390 Ohm
-R0603_471           Resistor smd 0603 470 Ohm
-R0603_472           Resistor smd 0603 4.7 kOhm
-R0603_473           Resistor smd 0603 47 kOhm
-R0603_51R           Resistor smd 0603 51 Ohm
-R0603_682           Resistor smd 0603 6.8 kOhm
-R0603_683           Resistor smd 0603 68 kOhm
-R0603_822           Resistor smd 0603 8.2 kOhm
-R0603_912           Resistor smd 0603 9.1 kOhm
-R0805_0R            Resistor smd 0805 0 Ohm
-R0805_101           Resistor smd 0805 100 Ohm
-R0805_102           Resistor smd 0805 1 kOhm
-R0805_103           Resistor smd 0805 10 kOhm
-R0805_104           Resistor smd 0805 100 kOhm
-R0805_105           Resistor smd 0805 1 MOhm
-R0805_121           Resistor smd 0805 120 Ohm
-R0805_183           Resistor smd 0805 18 kOhm
-R0805_18R           Resistor smd 0805 18 Ohm
-R0805_224           Resistor smd 0805 220 kOhm
-R0805_332           Resistor smd 0805 3.3 kOhm
-R0805_334           Resistor smd 0805 330 kOhm
-R0805_392           Resistor smd 0805 3.9 kOhm
-R0805_393           Resistor smd 0805 39 kOhm
-R0805_472           Resistor smd 0805 4.7 kOhm
-R0805_473           Resistor smd 0805 47 kOhm
-R0805_474           Resistor smd 0805 470 kOhm
-R0805_562           Resistor smd 0805 5.6 kOhm
-R0805_682           Resistor smd 0805 6.8 kOhm
-R0805_683           Resistor smd 0805 68 kOhm
-R0805_822           Resistor smd 0805 8.2 kOhm
 RPOT_25T_104        Potentiometer 100 kOhm 25T Top Adj.
 RPOT_25T_202        Potentiometer 2 kOhm 25T Top Adj.
 RQ5C060BC           P-Channel Power MOSFET RQ5C060BC
@@ -231,7 +136,6 @@ SQ_SEN_390          Sensor SQ-SEN-390 On/Off Tilt sensor
 SQ_SEN_XXX          Tilt Detect Switch SQ-SEN-XXX
 STM32F072RBT6       
 STM32F429ZIT6       ARM Cortex-M4 32-bit MCU+FPU, 225 DMIPS, 2048 kB Flash, 256 kB Internal RAM, 114 I/Os, 144-pin LQFP, -40 to 85 degC, Tray
-SUPERCAP_0F22       Capacitor Radial Stacked Coin 0.22 F 5.5V Double Layer
 SW DIP-4            DIP Switch, 4 Position, SPST
 SW-SPST             Single-Pole, Single-Throw Switch
 SW-SPST_4P          Single-Pole, Single-Throw Switch
@@ -258,10 +162,5 @@ XTAL8M_2P           Oscillator CRYSTAL 8.0 MHz 16 pF SMD
 XTAL_12             Oscillator Crystal 12.000 MHz 8 PF SMD
 XTAL_12_4P          Oscillator Crystal 12.000 MHz 8 PF SMD
 XTAL_8_4P           Oscillator Crystal 8.000 MHz 10 PF SMD
-ZD_PDZV3.6A         PDZV3.6A  Zener Diode 3.6V 1W ?6.19% Surface Mount PMDTM
-ZD_PDZV4.3A         PDZV4.3A  Zener Diode 4.3V 1W ?6.19% Surface Mount PMDTM
-ZD_PDZV5.1A         PDZV5.1A  Zener Diode 5.1V 1W ?6.19% Surface Mount PMDTM
-ZD_PDZV5.6A         Diode PDZVTR5.6A Zener 5.65V 1W SOD-128
-ZD_PDZV9.1A         PDZV9.1A  Zener Diode 9.1V 1W ?6.19% Surface Mount PMDTM
 ZED_F9P             
 brd_11u68-100P      
