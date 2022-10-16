@@ -1,10 +1,10 @@
 PCB Library : ADNB95C.PcbLib
-Date        : 13-Oct-22
-Time        : 17:23:44
+Date        : 16-Oct-22
+Time        : 17:38:25
 
 
 
-Component Count : 226
+Component Count : 225
 
 Component Name
 -----------------------------------------------
@@ -24,7 +24,6 @@ Component Name
 1210X
 3296W
 18650BAT1C_BENT
-18650BAT1C_BENT_WO3D
 18650BAT1C_SMD
 18650BAT1C_STPDWN
 18650BATT2
