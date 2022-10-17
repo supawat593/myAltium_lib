@@ -135,14 +135,26 @@ DocumentPath=ADNB95C.PcbLib.htm
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=myIOT_lib.cmp
+DocumentPath=Capacitors.cmp
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=myIOT_lib.csv
+DocumentPath=Capacitors.csv
 DItemRevisionGUID=
 
 [GeneratedDocument4]
+DocumentPath=Capacitors.rep
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=myIOT_lib.cmp
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=myIOT_lib.csv
+DItemRevisionGUID=
+
+[GeneratedDocument7]
 DocumentPath=myIOT_lib.rep
 DItemRevisionGUID=
 
