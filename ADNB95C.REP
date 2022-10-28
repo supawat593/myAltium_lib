@@ -1,10 +1,10 @@
 PCB Library : ADNB95C.PcbLib
-Date        : 17-Oct-22
-Time        : 22:40:23
+Date        : 28-Oct-22
+Time        : 08:03:42
 
 
 
-Component Count : 225
+Component Count : 231
 
 Component Name
 -----------------------------------------------
@@ -18,7 +18,13 @@ Component Name
 15EDGRC-3.5-06P
 20-HTSSOP
 28-HTSSOP
+0603_LED_S1
 0603XS
+0805_LED_S1
+0805_LED_S1 - BLU
+0805_LED_S1 - GRN
+0805_LED_S1 - RED
+0805_LED_S1 - YLW
 0805XS
 1206X
 1210X
