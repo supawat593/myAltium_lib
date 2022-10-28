@@ -1,6 +1,6 @@
 CSV text has been written to file : myIOT_lib.csv
 
-Library Component Count : 153
+Library Component Count : 154
 
 Name                Description
 ----------------------------------------------------------------------------------------------------
@@ -85,6 +85,7 @@ LARA-R2             LARA MODULE UBLOX
 LDL212PVR           IC LDL212PVR Regulator LIN 1.18V 1.2A 6-WFDFN
 LED0805_BLUE        LED TO-2013BC-BF SMD Blue Water Clear 146 MCD
 LED0805_GRN         LED TO-2013BC-MGE SMD Green water clear 146 MCD
+LED0805_RED         LED
 LED0805_YLW         LED TO-2013BC-MYE SMD Yellow water clear 146 MCD
 LED3MMH_BLU         LED Housing Dia = 3mm BLUE, 450mcd
 LED3MMH_YLW         LED Housing Dia = 3mm YELLOW, 220mcd
