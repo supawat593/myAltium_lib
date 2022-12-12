@@ -181,14 +181,10 @@ DocumentPath=Capacitors.rep
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=myIOT_lib.cmp
-DItemRevisionGUID=
-
-[GeneratedDocument6]
 DocumentPath=myIOT_lib.csv
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=myIOT_lib.rep
 DItemRevisionGUID=
 

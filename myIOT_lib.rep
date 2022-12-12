@@ -1,6 +1,6 @@
 CSV text has been written to file : myIOT_lib.csv
 
-Library Component Count : 154
+Library Component Count : 155
 
 Name                Description
 ----------------------------------------------------------------------------------------------------
@@ -142,6 +142,7 @@ SW-SPST             Single-Pole, Single-Throw Switch
 SW-SPST_4P          Single-Pole, Single-Throw Switch
 TESTPOINT           Testpoint open pad 1mm diameter round
 TILT_SEN_PCB        
+TL084D              JFET-Input Operational Amplifier
 TPL5010             IC TPL5010QDDCRQ1 Programmable timer W/Watchdog SOT-23-6
 TPL511X             TPL511x  ic Timer and one shot programmable timeout
 TPS4H000AQP         TPS4H000AQPWPRQ1  40-V, 1000-mO Quad-Channel Smart High-Side Switch

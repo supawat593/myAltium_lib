@@ -1,10 +1,10 @@
 PCB Library : ADNB95C.PcbLib
-Date        : 28-Oct-22
-Time        : 08:03:42
+Date        : 12-Dec-22
+Time        : 22:34:39
 
 
 
-Component Count : 231
+Component Count : 235
 
 Component Name
 -----------------------------------------------
@@ -81,6 +81,7 @@ E-CAP8X10
 E-CAP10X10
 EDGE26
 EDGECARD26
+EK500V-2P
 ELS61
 ESP32
 ESP32_DEV_KIT
@@ -195,6 +196,9 @@ SOD523
 SOIC-8_150mil
 SOIC-8_208mil
 SOIC-8_EP_150mil
+SOIC-14_150mil
+SOIC-14_208mil
+SOIC-14_300mil
 SOIC-SO28_N
 SOIC16N_N
 SOIC127P600-8N
