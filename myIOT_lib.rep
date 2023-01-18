@@ -1,6 +1,6 @@
 CSV text has been written to file : myIOT_lib.csv
 
-Library Component Count : 155
+Library Component Count : 156
 
 Name                Description
 ----------------------------------------------------------------------------------------------------
@@ -31,6 +31,7 @@ BLUEPILL_stm32      Arduino STM32F103C8T6 ARM STM32 with Bootloader
 BM70BLES1FC2        BM70BLES1FC2  Bluetooth 5 (BLE) Module Integrated Ant 1.9-3.6Vrate
 BQ24210             bq24210 800-mA, Single-Input, Single-Cell Li-Ion Battery Solar Charger
 BSS84               P-channel Enhancement Mode Vertical D-MOSFET BSS84
+BU33SD5WG-TR        CMOS LDO Regulators 1Ch 3.3V/500mA Accuracy ±2%, for Portable Equipment
 Brd_BME280          Module BME280
 Brd_GY9250          Module GY9250
 CASTELLPIN          Edge Castellation PCB pin
@@ -95,7 +96,7 @@ LM1117MPX-3.3       IC LM1117MPX-3.3/NOPB Reg LDO 3.3V 800mA SOT-223
 LMV431ACM5/NOPB     Low-Voltage (1.24V) Adjustable Precision Shunt Regulators, 5-pin SOT-23, Pb-Free
 LPC11U68JBD100      IC LPC11U68JBD100 MCU 32bit ARM 256KB Flash USB 100pins LQFP-100
 LPC11U68JBD48       LPC11U68JBD48  Cortex-M0+  NXP MCU
-LPC1768FBD100,551   32-Bit ARM Cortex-M3 Microcontroller, Ethernet, USB 2.0 Host / Device / OTG, CAN, 512 KB Flash, 64 KB SRAM, -40 to 85 degC, 100-Pin LQFP (SOT407-1), RoHS, Tray
+LPC1768FBD100       32-Bit ARM Cortex-M3 Microcontroller, Ethernet, USB 2.0 Host / Device / OTG, CAN, 512 KB Flash, 64 KB SRAM, -40 to 85 degC, 100-Pin LQFP (SOT407-1), RoHS, Tray
 LPC1768MBED_MODULE  LPC1768 MBED MODULE
 Linkit7688          Linkit Smart 7688 (102110018) Controller
 Linkit7688duo       
