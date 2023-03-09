@@ -1,6 +1,6 @@
 CSV text has been written to file : Resistors.csv
 
-Library Component Count : 49
+Library Component Count : 51
 
 Name                Description
 ----------------------------------------------------------------------------------------------------
@@ -14,6 +14,7 @@ R0603_105           Resistor smd 0603 1 MOhm
 R0603_10R           Resistor smd 0603 10 Ohm
 R0603_123           Resistor smd 0603 12 kOhm
 R0603_151           Resistor smd 0603 150 Ohm
+R0603_152           Resistor smd 0603 1.5 kOhm
 R0603_153           Resistor smd 0603 15 kOhm
 R0603_184           Resistor smd 0603 180 kOhm
 R0603_18R           Resistor smd 0603 18 Ohm
@@ -24,6 +25,7 @@ R0603_222           Resistor smd 0603 2.2 kOhm
 R0603_273           Resistor smd 0603 27 kOhm
 R0603_331           Resistor smd 0603 330 Ohm
 R0603_332           Resistor smd 0603 3.3 kOhm
+R0603_33R           Resistor smd 0603 33 Ohm
 R0603_391           Resistor smd 0603 390 Ohm
 R0603_471           Resistor smd 0603 470 Ohm
 R0603_472           Resistor smd 0603 4.7 kOhm
