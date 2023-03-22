@@ -1,6 +1,6 @@
 CSV text has been written to file : myIOT_lib.csv
 
-Library Component Count : 157
+Library Component Count : 156
 
 Name                Description
 ----------------------------------------------------------------------------------------------------
@@ -37,7 +37,6 @@ Brd_GY9250          Module GY9250
 CASTELLPIN          Edge Castellation PCB pin
 CLIP18650           clip 18650
 DALC208             Diode DALC208SC6 Diode suppresssor 9V SOT23-6
-DMC2700UDM          DMC2700UDM 20V COMPLEMENTARY PAIR ENHANCEMENT MODE MOSFET
 DMG6601LVT-7        DMG6601LVT-7COMPLEMENTARY PAIR ENHANCEMENT MODE MOSFET
 DTC143ZCAT116       DTC143ZCAT116 
 Digital Transistor NPN 50V/100mA, 200mW 4.7 kOhm and 47 kOhm Built-in Bias Resistors
