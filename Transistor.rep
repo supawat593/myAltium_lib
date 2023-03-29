@@ -1,0 +1,20 @@
+CSV text has been written to file : Transistor.csv
+
+Library Component Count : 11
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+2N7002              N-channel Enhancement Mode Field-effect Transistor 2N7002
+BSS84               P-channel Enhancement Mode Vertical D-MOSFET BSS84
+DMG6601LVT-7        DMG6601LVT-7COMPLEMENTARY PAIR ENHANCEMENT MODE MOSFET
+DTC143ZCAT116       DTC143ZCAT116 
+Digital Transistor NPN 50V/100mA, 200mW 4.7 kOhm and 47 kOhm Built-in Bias Resistors
+FDN327N             Transistor FDN327N N-CH 20V 2A MOSFET 0.5W
+IMH9AT110           IMH9AT110
+Dual Digital Transistor NPN 50V/100mA,10kO and 47kO Built-in Bias Resistors
+NTLJF3117PT1G       Power MOSFET P-CH with Schottky Diode
+RQ5C060BC           P-Channel Power MOSFET RQ5C060BC
+SI2301CDS           SI2301CDS  P-Channel 20V 3.1A (Tc) 860mW (Ta), 1.6W (Tc) Surface Mount SOT-23-3 (TO-236)
+SMBT3904            NPN Switching Transistor  SMBT3904 SOT-23
+SSM3J332R           P-Channel Power MOSFET 30V/6A SSM3J332R
