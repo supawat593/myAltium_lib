@@ -1,10 +1,10 @@
 PCB Library : ADNB95C.PcbLib
-Date        : 2023-03-15
-Time        : 11:49:35 AM
+Date        : 29-Mar-23
+Time        : 19:29:47
 
 
 
-Component Count : 235
+Component Count : 238
 
 Component Name
 -----------------------------------------------
@@ -172,6 +172,8 @@ NTC1X2
 NXP-SOT407-1_V
 PCB_TERM_TAB635
 PVQFN-14
+QFN-24_4x4x05P
+QFN-28_5x5x05P
 QFN-ML20_N
 QFN20
 QFN127P608X508X90_HS-9N
@@ -199,6 +201,7 @@ SOIC-8_EP_150mil
 SOIC-14_150mil
 SOIC-14_208mil
 SOIC-14_300mil
+SOIC-16_150mil
 SOIC-SO28_N
 SOIC16N_N
 SOIC127P600-8N

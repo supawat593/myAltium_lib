@@ -1,13 +1,13 @@
 CSV text has been written to file : myIOT_lib.csv
 
-Library Component Count : 156
+Library Component Count : 149
 
 Name                Description
 ----------------------------------------------------------------------------------------------------
 
 18650BATT1C         18650 Battery 1 Cell Holder SMD
 18650BATT2          18650 Battery 2 Cell Holder SMD
-2N7002              N-channel Enhancement Mode Field-effect Transistor 2N7002
+74HC595D_[C5947]    74HC595D
 74LVC1T45GW         IC 74LVC1T45GW-W100H Level Translator 6-TSSOP
 74LVCH2T45DC        IC 74LVCH2T45DC-Q100H Level Translator VSSOP-8
 ADR512ARTZ          ADR512ARTZ VRef Shunt Precision 1.2V SOT-23-3
@@ -30,16 +30,15 @@ BG96                BG96 IoT NB/Cat.M1 RF Module  Quectel
 BLUEPILL_stm32      Arduino STM32F103C8T6 ARM STM32 with Bootloader
 BM70BLES1FC2        BM70BLES1FC2  Bluetooth 5 (BLE) Module Integrated Ant 1.9-3.6Vrate
 BQ24210             bq24210 800-mA, Single-Input, Single-Cell Li-Ion Battery Solar Charger
-BSS84               P-channel Enhancement Mode Vertical D-MOSFET BSS84
-BU33SD5WG-TR        CMOS LDO Regulators 1Ch 3.3V/500mA Accuracy ?2%, for Portable Equipment
+BU33SD5WG-TR        CMOS LDO Regulators 1Ch 3.3V/500mA Accuracy ±2%, for Portable Equipment
 Brd_BME280          Module BME280
 Brd_GY9250          Module GY9250
 CASTELLPIN          Edge Castellation PCB pin
+CH340G_[C14267]     USB
 CLIP18650           clip 18650
+CP2102-GMR_[C6568]  USB
+CP2104-F03-GM_[C47742]USB
 DALC208             Diode DALC208SC6 Diode suppresssor 9V SOT23-6
-DMG6601LVT-7        DMG6601LVT-7COMPLEMENTARY PAIR ENHANCEMENT MODE MOSFET
-DTC143ZCAT116       DTC143ZCAT116 
-Digital Transistor NPN 50V/100mA, 200mW 4.7 kOhm and 47 kOhm Built-in Bias Resistors
 ELS61               
 ESIM                MFF2 5x6 mm eSIM QFN-8
 ESP32_DEVKIT        
@@ -50,7 +49,6 @@ FB0603_680_1A       Ferrite SMD 0603 68 Ohm 1A MI0603J680Rm10
 FB0805_101_4A       Chip Beads for Power Line 100 Ohm 25%,
 Rate Current 4A
 DCR 0.02 Ohm
-FDN327N             Transistor FDN327N N-CH 20V 2A MOSFET 0.5W
 FIDU31              
 FIL_SAW400          
 FT231XQ-R           IC FT231XQ-R USB to Serial UART Interface w/ Dull Modem CTRL
@@ -64,8 +62,6 @@ Header 3            Header, 3-Pin
 Header 6            Header, 6-Pin
 Header_25           Header, 25-Pin
 ICL7660             IC ICL7660CSA+ Regulator Charge Pump INV 20mA 8-SO
-IMH9AT110           IMH9AT110
-Dual Digital Transistor NPN 50V/100mA,10kO and 47kO Built-in Bias Resistors
 IND_1UH             Inductor Fixed Power 1uH 3A 30 mOhm 1212 SMD
 IND_33UH_4.5A       INDUCTOR SMD 33 UH 4.5A POWER CHOKE
 IND_33UH_8A         INDUCTOR SMD SHIELD 33 UH 8A 56MOHM
@@ -100,7 +96,7 @@ LPC1768MBED_MODULE  LPC1768 MBED MODULE
 Linkit7688          Linkit Smart 7688 (102110018) Controller
 Linkit7688duo       
 MAX-8Q              GNSS Module, Model : MAX-8Q with GPS, Ublox
-MAX3232CSE          3.0V TO 5.5V, Low-Power, up to 1Mbps, True RS-232 Transceiver Using Four 0.1µF External Capacitor
+MAX3232CSE          3.0V TO 5.5V, Low-Power, up to 1Mbps, True RS-232 Transceiver Using Four 0.1?F External Capacitor
 MCP121T             MCP121T-300E/LB Micropower Voltage Supervisor 2.93V,Active LOW
 MCP16251            Low Quiescent Current, PFM/PWM Synchronous Boost Regulator sot23-6
 MCP23017T-E/SO      16-Bit I/O Expander with Serial Interface, 28-Pin SOIC, Extended Temperature, Tape and Reel
@@ -115,27 +111,22 @@ MicroSIM            Connector for Micro SIM card ,8 pin, 1.27 mm pitch PCB SMT
 MicroSIM_molex      Connector Micro SIM Card Hinged Lid 6-Contact 1.6mm Height
 Modem_ICS           
 NTC_10K             NTC 10K , 2-Pin
-NTLJF3117PT1G       Power MOSFET P-CH with Schottky Diode
 PCA9306             IC VOLT-LVL TRANSL PCA9306DTR2G Translator TSSOP-8
 PCB_TERM            
 PESD5V0U1UB         ESD PESD5V0V1BB  SOD523
 RPOT_25T_104        Potentiometer 100 kOhm 25T Top Adj.
 RPOT_25T_202        Potentiometer 2 kOhm 25T Top Adj.
-RQ5C060BC           P-Channel Power MOSFET RQ5C060BC
 SARA-R4             LTE NB-IoT Module, Model : SARA-R410M Cat.M1, Ublox
 SARA-U2             HSPA/GSM Module, Model : SARA-U201 for Global coverage, Ublox
-SI2301CDS           SI2301CDS  P-Channel 20V 3.1A (Tc) 860mW (Ta), 1.6W (Tc) Surface Mount SOT-23-3 (TO-236)
 SIM39EA             
 SIM7600E-H          4G LTE Module, Model : SIM7600E-H1C, SIMCOM
 SIMCARD             Connector for Multipole SIM card ,6 pin, 1.27 mm pitch PCB SMT
-SMBT3904            NPN Switching Transistor  SMBT3904 SOT-23
 SN74AVC2T245        SN74AVC2T245  Dual-Bit  Dual-Supply  Bus Transceiver  with Configurable  Level-Shifting  /  Voltage  Translation  and Tri-State  Outputs
 SN74LVC1G3157DBVR   IC SN74LVC1G3157DBVR Analog Switch SPDT 340 MHz 1.65V to 5.5V
 SN74LVC2GU04DBVR    SN74LVC2GU04DBVR  sot-23-6
 SN75176BDR          SN75176 Differential Bus TransceiverRS-485/RS-422
 SQ_SEN_390          Sensor SQ-SEN-390 On/Off Tilt sensor
 SQ_SEN_XXX          Tilt Detect Switch SQ-SEN-XXX
-SSM3J332R           P-Channel Power MOSFET 30V/6A SSM3J332R
 STM32F072RBT6       
 STM32F429ZIT6       ARM Cortex-M4 32-bit MCU+FPU, 225 DMIPS, 2048 kB Flash, 256 kB Internal RAM, 114 I/Os, 144-pin LQFP, -40 to 85 degC, Tray
 SW DIP-4            DIP Switch, 4 Position, SPST
