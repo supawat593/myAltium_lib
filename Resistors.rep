@@ -1,0 +1,58 @@
+CSV text has been written to file : Resistors.csv
+
+Library Component Count : 51
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+R0603_0R            Resistor smd 0603 0 Ohm
+R0603_101           Resistor smd 0603 100 Ohm
+R0603_102           Resistor smd 0603 1 kOhm
+R0603_103           Resistor smd 0603 10 kOhm
+R0603_104           Resistor smd 0603 100 kOhm
+R0603_105           Resistor smd 0603 1 MOhm
+R0603_10R           Resistor smd 0603 10 Ohm
+R0603_123           Resistor smd 0603 12 kOhm
+R0603_151           Resistor smd 0603 150 Ohm
+R0603_152           Resistor smd 0603 1.5 kOhm
+R0603_153           Resistor smd 0603 15 kOhm
+R0603_184           Resistor smd 0603 180 kOhm
+R0603_18R           Resistor smd 0603 18 Ohm
+R0603_203           Resistor smd 0603 20 kOhm
+R0603_204           Resistor smd 0603 200 kOhm
+R0603_221           Resistor smd 0603 220 Ohm
+R0603_222           Resistor smd 0603 2.2 kOhm
+R0603_273           Resistor smd 0603 27 kOhm
+R0603_331           Resistor smd 0603 330 Ohm
+R0603_332           Resistor smd 0603 3.3 kOhm
+R0603_33R           Resistor smd 0603 33 Ohm
+R0603_391           Resistor smd 0603 390 Ohm
+R0603_471           Resistor smd 0603 470 Ohm
+R0603_472           Resistor smd 0603 4.7 kOhm
+R0603_473           Resistor smd 0603 47 kOhm
+R0603_51R           Resistor smd 0603 51 Ohm
+R0603_682           Resistor smd 0603 6.8 kOhm
+R0603_683           Resistor smd 0603 68 kOhm
+R0603_822           Resistor smd 0603 8.2 kOhm
+R0603_912           Resistor smd 0603 9.1 kOhm
+R0805_0R            Resistor smd 0805 0 Ohm
+R0805_101           Resistor smd 0805 100 Ohm
+R0805_102           Resistor smd 0805 1 kOhm
+R0805_103           Resistor smd 0805 10 kOhm
+R0805_104           Resistor smd 0805 100 kOhm
+R0805_105           Resistor smd 0805 1 MOhm
+R0805_121           Resistor smd 0805 120 Ohm
+R0805_183           Resistor smd 0805 18 kOhm
+R0805_18R           Resistor smd 0805 18 Ohm
+R0805_224           Resistor smd 0805 220 kOhm
+R0805_332           Resistor smd 0805 3.3 kOhm
+R0805_334           Resistor smd 0805 330 kOhm
+R0805_392           Resistor smd 0805 3.9 kOhm
+R0805_393           Resistor smd 0805 39 kOhm
+R0805_472           Resistor smd 0805 4.7 kOhm
+R0805_473           Resistor smd 0805 47 kOhm
+R0805_474           Resistor smd 0805 470 kOhm
+R0805_562           Resistor smd 0805 5.6 kOhm
+R0805_682           Resistor smd 0805 6.8 kOhm
+R0805_683           Resistor smd 0805 68 kOhm
+R0805_822           Resistor smd 0805 8.2 kOhm

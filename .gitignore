@@ -7,3 +7,9 @@ __Previews
 *.zip
 *.rar
 *.wmf
+*.err
+*.ERR
+*.cmp
+*.CMP
+*.htm*
+*log
