@@ -1,6 +1,6 @@
 CSV text has been written to file : Resistors.csv
 
-Library Component Count : 51
+Library Component Count : 62
 
 Name                Description
 ----------------------------------------------------------------------------------------------------
@@ -56,3 +56,14 @@ R0805_562           Resistor smd 0805 5.6 kOhm
 R0805_682           Resistor smd 0805 6.8 kOhm
 R0805_683           Resistor smd 0805 68 kOhm
 R0805_822           Resistor smd 0805 8.2 kOhm
+R1206_0R            Resistor smd 1206 0 Ohm
+R1206_101           Resistor smd 1206 100 Ohm
+R1206_102           Resistor smd 1206 1 kOhm
+R1206_103           Resistor smd 1206 10 kOhm
+R1206_105           Resistor smd 1206 1 MOhm
+R1206_10R           Resistor smd 1206 10 Ohm
+R1206_202           Resistor smd 1206 2 kOhm
+R1206_332           Resistor smd 1206 3.3 kOhm
+R1206_472           Resistor smd 1206 4.7 kOhm
+R1206_473           Resistor smd 1206 47 kOhm
+R1206_562           Resistor smd 1206 5.6 kOhm
