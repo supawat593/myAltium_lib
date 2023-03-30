@@ -14,8 +14,8 @@ DIO_MBRS540T3G      DIODE MBRS540T3G SCHOTTKY 40V 5A
 DIO_NSR1020MW2      Schottky Diode NSR1020MW2
 DIO_RB088BM200TL    DIODE SCHOTTKY RB088BM200TL 200V REVERSE 10A
 DIO_RB550VAM        Schottky Diode RB550VAM
-ZD_PDZV3.6A         PDZV3.6A  Zener Diode 3.6V 1W ?6.19% Surface Mount PMDTM
-ZD_PDZV4.3A         PDZV4.3A  Zener Diode 4.3V 1W ?6.19% Surface Mount PMDTM
-ZD_PDZV5.1A         PDZV5.1A  Zener Diode 5.1V 1W ?6.19% Surface Mount PMDTM
+ZD_PDZV3.6A         PDZV3.6A  Zener Diode 3.6V 1W ±6.19% Surface Mount PMDTM
+ZD_PDZV4.3A         PDZV4.3A  Zener Diode 4.3V 1W ±6.19% Surface Mount PMDTM
+ZD_PDZV5.1A         PDZV5.1A  Zener Diode 5.1V 1W ±6.19% Surface Mount PMDTM
 ZD_PDZV5.6A         Diode PDZVTR5.6A Zener 5.65V 1W SOD-128
-ZD_PDZV9.1A         PDZV9.1A  Zener Diode 9.1V 1W ?6.19% Surface Mount PMDTM
+ZD_PDZV9.1A         PDZV9.1A  Zener Diode 9.1V 1W ±6.19% Surface Mount PMDTM
