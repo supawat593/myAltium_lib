@@ -1,6 +1,6 @@
 CSV text has been written to file : Capacitors.csv
 
-Library Component Count : 43
+Library Component Count : 46
 
 Name                Description
 ----------------------------------------------------------------------------------------------------
@@ -44,7 +44,10 @@ C1210_225_100V      Capacitor SMD 1210 2.2 uF 100V 10% X7R
 C2220_106_100V      Capacitor 2220 10 uF 100V
 C2220_106_50V       Capacitor 2220 10 uF 50V
 C2220_225_100V      Capacitor 2220 2.2 uF 100V
-CPOL_100U           Capacitor SMD Electrolytic 100 uF
-CPOL_220U           Capacitor SMD Electrolytic 220 uF 50V
-CPOL_470U           Capacitor SMD Electrolytic 470 uF 10V
+ECAP_SMD_100U_16V   Capacitor SMD Electrolytic 100 uF 16V
+ECAP_SMD_100U_35V   Capacitor SMD Electrolytic 100 uF 35V
+ECAP_SMD_100U_50V   Capacitor SMD Electrolytic 100 uF 50V
+ECAP_SMD_10U_35V    Capacitor SMD Electrolytic 10 uF 35V
+ECAP_SMD_220U_50V   Capacitor SMD Electrolytic 220 uF 50V
+ECAP_SMD_470U_10V   Capacitor SMD Electrolytic 470 uF 10V
 SUPERCAP_0F22       Capacitor Radial Stacked Coin 0.22 F 5.5V Double Layer
