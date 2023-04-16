@@ -1,0 +1,6 @@
+"LIBRARYREFERENCE","FOOTPRINT1","ANUNDA_CODE","COMMENT","ES P/N:","LATESTREVISIONDATE","LATESTREVISIONNOTE","MFG","MFG P/N","PACKAGEREFERENCE","VALUE","SHEETPART","DESIGNATOR","DESCRIPTION"
+"XTAL327","XTAL_3.2x1.5mm","M1185","=Value","","17-Jul-2002","Re-released for DXP Platform.","Citizen Finedevice Co Ltd","CM315H32768EZFT","R38","32.768kHz","","Y?","Oscillator CRYSTAL 32.768 KHz 12.5 pF SMD"
+"XTAL8M_2P","SMD_49S","M0579","=Value","0900-0050-1","17-Jul-2002","Re-released for DXP Platform.","Hosonic Technology","E49B8E000000KE","R38","8MHz","","Y?","Oscillator CRYSTAL 8.0 MHz 16 pF SMD"
+"XTAL_12","XTAL_3.2X2.5mm","M1183","=Value","","17-Jul-2002","Re-released for DXP Platform.","NDK America Inc.","NX3225SA-12.000M-STD-CSR-1","R38","12MHz","","Y?","Oscillator Crystal 12.000 MHz 8 PF SMD"
+"XTAL_12_4P","XTAL_3.2X2.5mm","M1183","=Value","","17-Jul-2002","Re-released for DXP Platform.","NDK America Inc.","NX3225SA-12.000M-STD-CSR-1","R38","12MHz","","Y?","Oscillator Crystal 12.000 MHz 8 PF SMD"
+"XTAL_8_4P","XTAL_3.2X2.5mm","M2050","=Value","","17-Jul-2002","Re-released for DXP Platform.","Raltron Electronics","RH100-8.000-10-1010-EXT-TR","R38","8MHz","","Y?","Oscillator Crystal 8.000 MHz 10 PF SMD"
