@@ -1,0 +1,18 @@
+"LIBRARYREFERENCE","FOOTPRINT1","ANUNDA_CODE","CODE_JEITA","COMMENT","MFG","MFG P/N","VALUE","SHEETPART","DESIGNATOR","DESCRIPTION"
+"FB0603_300_1A","FB0603","M0646","0603","=Value","Wurth Elektronik","742792609","FB30R","","FB?","Ferrite SMD 0603 30 Ohm 1000MA BLM18PG300SN1D Murata"
+"FB0603_601_1A","FB0603","M0647","0603","=Value","TDK Corporation","MPZ1608S601ATA00","FB600R","","FB?","Ferrite Bead SMD 0603 600 Ohm MPZ1608S601A TDK"
+"FB0603_680_1A","FB0603","M0645","0603","=Value","Laird-Signal Integrity Products","MI0603J680R-10","FB68R","","FB?","Ferrite SMD 0603 68 Ohm 1A MI0603J680Rm10"
+"FB0805_101_4A","FB0805","M0524","0805","=Value","TDK Corporation","MPZ2012S101AT","FB100R","","FB?","Chip Beads for Power Line 100 Ohm 25%,
+Rate Current 4A
+DCR 0.02 Ohm"
+"IND_1UH","INDP3030X15N","M1918","1212","=Value","Murata Electronics","LQH3NPN1R0MMEL","1uH","","L?","Inductor Fixed Power 1uH 3A 30 mOhm 1212 SMD"
+"IND_33UH_4.5A","INDP120120X67N","M2136","","=Value","CODACA","SPRHS125-330M","33uH/4.5A","","L?","INDUCTOR SMD 33 UH 4.5A POWER CHOKE"
+"IND_33UH_8A","INDP126126X65N","M2147","","=Value","Bourns Inc.","SRP1265C-330M","33uH/8A","","L?","INDUCTOR SMD SHIELD 33 UH 8A 56MOHM"
+"IND_3U3H","INDP4949X31N","D1093","2020","=Value","Taiyo Yuden","NRS5040T3R3NMGJ","3.3uH","","L?","Inductor Fixed Power 3.3uH"
+"IND_4U7H","INDP4040X12N","M1952","1616","=Value","Murata Electronics","LQH44PN4R7MJ0L","4.7uH","","L?","Inductor Fixed Power 4.7uH 980mA 0.117 Ohm"
+"L0603_10UH","L0603XS","M1179","0603","=Value","TDK Corporation","MLZ1608M100WT000","10uH","","L?","Inductor smd 0603 10uH"
+"L0603_10nH","L0603XS","M1435","0603","=Value","Murata Electronics","LQW18AN10NJ00D","10nH","","L?","Inductor SMD 0603 10 nH 650 mA WW Ceramic"
+"L0603_27nH","L0603XS","M1717","0603","=Value","Bourns Inc.","CW160808-27NJ","27nH","","L?","Inductor SMD 0603 27 nH 600 mA WW"
+"L0603_39nH","L0603XS","M1043","0603","=Value","Bourns Inc.","PM0603-39NJ-RC","39nH","","L?","Inductor smd 0603 39 nH"
+"L0603_47nH","L0603XS","M1748","0603","=Value","Pulse Electronics","BSCH0016080847NJ00","47nH","","L?","Inductor smd 0603 47 nH"
+"L0603_82nH","L0603XS","M1034","0603","=Value","Abracon LLC","AISC-0603-R082J-T","82nH","","L?","Inductor smd 0603 82 nH"

@@ -1,0 +1,24 @@
+CSV text has been written to file : Inductor.csv
+
+Library Component Count : 15
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+FB0603_300_1A       Ferrite SMD 0603 30 Ohm 1000MA BLM18PG300SN1D Murata
+FB0603_601_1A       Ferrite Bead SMD 0603 600 Ohm MPZ1608S601A TDK
+FB0603_680_1A       Ferrite SMD 0603 68 Ohm 1A MI0603J680Rm10
+FB0805_101_4A       Chip Beads for Power Line 100 Ohm 25%,
+Rate Current 4A
+DCR 0.02 Ohm
+IND_1UH             Inductor Fixed Power 1uH 3A 30 mOhm 1212 SMD
+IND_33UH_4.5A       INDUCTOR SMD 33 UH 4.5A POWER CHOKE
+IND_33UH_8A         INDUCTOR SMD SHIELD 33 UH 8A 56MOHM
+IND_3U3H            Inductor Fixed Power 3.3uH
+IND_4U7H            Inductor Fixed Power 4.7uH 980mA 0.117 Ohm
+L0603_10UH          Inductor smd 0603 10uH
+L0603_10nH          Inductor SMD 0603 10 nH 650 mA WW Ceramic
+L0603_27nH          Inductor SMD 0603 27 nH 600 mA WW
+L0603_39nH          Inductor smd 0603 39 nH
+L0603_47nH          Inductor smd 0603 47 nH
+L0603_82nH          Inductor smd 0603 82 nH
