@@ -24,14 +24,12 @@ ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
 AutoSheetNumbering=0
-NewIndexingOfSheetSymbols=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
-IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
@@ -149,6 +147,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LJHRRDQU
 
+[Document7]
+DocumentPath=Inductor.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VAVHGGID
+
 [GeneratedDocument1]
 DocumentPath=ADNB95C.PcbLib.htm
 DItemRevisionGUID=
@@ -170,34 +185,42 @@ DocumentPath=Diodes.rep
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=myIOT_lib.cmp
+DocumentPath=Inductor.csv
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=myIOT_lib.csv
+DocumentPath=Inductor.rep
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=myIOT_lib.rep
+DocumentPath=myIOT_lib.cmp
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Resistors.cmp
+DocumentPath=myIOT_lib.csv
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Resistors.csv
+DocumentPath=myIOT_lib.rep
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Resistors.rep
+DocumentPath=Resistors.cmp
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Transistor.csv
+DocumentPath=Resistors.csv
 DItemRevisionGUID=
 
 [GeneratedDocument13]
+DocumentPath=Resistors.rep
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Transistor.csv
+DItemRevisionGUID=
+
+[GeneratedDocument15]
 DocumentPath=Transistor.rep
 DItemRevisionGUID=
 
@@ -388,18 +411,6 @@ OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType12=Harness Layout Drawing Print
-OutputName12=Harness Layout Drawing Prints
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType13=Harness Wiring Diagram Print
-OutputName13=Harness Wiring Diagram Prints
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -547,12 +558,6 @@ OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType9=Export Project History
-OutputName9=Export Project History
-OutputDocumentPath9=
-OutputVariantName9=[No Variations]
-OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup7]
 Name=Other Outputs
@@ -766,11 +771,6 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=Web ReviewOutputName
-OutputName12=Web Review Data
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -903,7 +903,6 @@ Type116=1
 Type117=1
 Type118=1
 Type119=1
-Type120=1
 
 [Difference Levels]
 Type1=1
@@ -1095,13 +1094,12 @@ Type116=2
 Type117=3
 Type118=3
 Type119=3
+MultiChannelAlternate=2
 AlternateItemFail=3
 Type122=2
 Type123=1
 Type124=1
 Type125=1
-Type126=1
-Type127=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -1180,6 +1178,7 @@ ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=0|Use
 PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
 
 [Parameter Manager Custom Column Order]
+inductor.schlib=Anunda_code,"MFG P/N",MFG,Value,Code_JEITA,Created,Netlist,"Initial Current",Kind,Type,SubKind,Tech,"Spice Prefix"
 diodes.schlib=Anunda_Code,"MFG P/N",MFG,"Area Factor",DatasheetVersion,Digi-Key,"Initial Voltage",Kind,LatestRevisionDate,LatestRevisionNote,Netlist,Note,PackageDescription,PackageReference,PackageVersion,Published,Publisher,"Spice Prefix","Starting Condition",SubKind,Tech,Temperature,Type,Value
 transistor.schlib=Anunda_Code,"MFG P/N",MFG,Created,DatasheetVersion,Digi-Key,"ES P/N",Kind,LatestRevisionDate,LatestRevisionNote,Netlist,Note,PackageDescription,PackageReference,PackageVersion,Published,Publisher,"Spice Prefix",SubKind,Value
 
