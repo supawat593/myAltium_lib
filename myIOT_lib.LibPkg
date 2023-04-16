@@ -24,12 +24,14 @@ ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
 AutoSheetNumbering=0
+NewIndexingOfSheetSymbols=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
+IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
@@ -164,6 +166,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VAVHGGID
 
+[Document8]
+DocumentPath=LED.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WUMXITRI
+
+[Document9]
+DocumentPath=CrystalOscillator.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WPRWVQGT
+
 [GeneratedDocument1]
 DocumentPath=ADNB95C.PcbLib.htm
 DItemRevisionGUID=
@@ -177,50 +213,74 @@ DocumentPath=Capacitors.rep
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Diodes.csv
+DocumentPath=CrystalOscillator.cmp
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Diodes.rep
+DocumentPath=CrystalOscillator.csv
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Inductor.csv
+DocumentPath=CrystalOscillator.rep
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Inductor.rep
+DocumentPath=Diodes.csv
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=myIOT_lib.cmp
+DocumentPath=Diodes.rep
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=myIOT_lib.csv
+DocumentPath=Inductor.csv
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=myIOT_lib.rep
+DocumentPath=Inductor.rep
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Resistors.cmp
+DocumentPath=LED.cmp
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Resistors.csv
+DocumentPath=LED.csv
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Resistors.rep
+DocumentPath=LED.rep
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Transistor.csv
+DocumentPath=myIOT_lib.cmp
 DItemRevisionGUID=
 
 [GeneratedDocument15]
+DocumentPath=myIOT_lib.csv
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=myIOT_lib.rep
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Resistors.cmp
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Resistors.csv
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Resistors.rep
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Transistor.csv
+DItemRevisionGUID=
+
+[GeneratedDocument21]
 DocumentPath=Transistor.rep
 DItemRevisionGUID=
 
@@ -411,6 +471,18 @@ OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType12=Harness Layout Drawing Print
+OutputName12=Harness Layout Drawing Prints
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType13=Harness Wiring Diagram Print
+OutputName13=Harness Wiring Diagram Prints
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -558,6 +630,12 @@ OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType9=Export Project History
+OutputName9=Export Project History
+OutputDocumentPath9=
+OutputVariantName9=[No Variations]
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup7]
 Name=Other Outputs
@@ -771,6 +849,11 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Web ReviewOutputName
+OutputName12=Web Review Data
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -903,6 +986,7 @@ Type116=1
 Type117=1
 Type118=1
 Type119=1
+Type120=1
 
 [Difference Levels]
 Type1=1
@@ -1094,12 +1178,13 @@ Type116=2
 Type117=3
 Type118=3
 Type119=3
-MultiChannelAlternate=2
 AlternateItemFail=3
 Type122=2
 Type123=1
 Type124=1
 Type125=1
+Type126=1
+Type127=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -1180,5 +1265,8 @@ PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintSc
 [Parameter Manager Custom Column Order]
 inductor.schlib=Anunda_code,"MFG P/N",MFG,Value,Code_JEITA,Created,Netlist,"Initial Current",Kind,Type,SubKind,Tech,"Spice Prefix"
 diodes.schlib=Anunda_Code,"MFG P/N",MFG,"Area Factor",DatasheetVersion,Digi-Key,"Initial Voltage",Kind,LatestRevisionDate,LatestRevisionNote,Netlist,Note,PackageDescription,PackageReference,PackageVersion,Published,Publisher,"Spice Prefix","Starting Condition",SubKind,Tech,Temperature,Type,Value
+crystaloscillator.schlib=Anunda_Code,"MFG P/N",MFG,"ES P/N",LatestRevisionDate,LatestRevisionNote,PackageReference,Value,MFG
+myiot_lib.schlib=ambient_temperature_range_high,ambient_temperature_range_low,Anunda_Code,ClassName,"MFG P/N",MFG,Code_IPC,Code_JEDEC,datasheet,DatasheetVersion,Digi-Key,digikey_description,digikey_part_number,DigiKey_PN,Kind,LatestRevisionDate,LatestRevisionNote,MF,mfg_package_ident,MP,MPN,Package,Packing,"Part Description",PackageDescription,PackageReference,Packaging,PackageTopMarking,PackageVersion,"PCB DECAL",PinCount,Pins,PowerWise,prefix,Price,Published,Publisher,"Radiation Hardening",RAM_size,"REACH SVHC",Replacement,RoHS,RoHSCompliant,"Set Position","Sim Note",SnapEDA_Link,"Spice Prefix",standoff_height,SubKind,Supplier,"Supplier 1","Supplier 2","Supplier 3","Supplier 4","Supplier Part Number 1","Supplier Part Number 2","Supplier Part Number 3","Supplier Part Number 4",SuppliersPartNumber,"Supply Voltage(Vcc) max (V)","Supply Voltage(Vcc) min (V)",SymbolName_1,SymbolName_2,Tech,temperature_range_high,temperature_range_low,TEXT,Type,UnitPrice,Value,verification_version,Width
 transistor.schlib=Anunda_Code,"MFG P/N",MFG,Created,DatasheetVersion,Digi-Key,"ES P/N",Kind,LatestRevisionDate,LatestRevisionNote,Netlist,Note,PackageDescription,PackageReference,PackageVersion,Published,Publisher,"Spice Prefix",SubKind,Value
+led.schlib=Anunda_Code,"Area Factor","Initial Voltage",Kind,"MFG P/N",MFG,Netlist,Price,"Spice Prefix","Starting Condition",SubKind,Supplier,Temperature,Value
 

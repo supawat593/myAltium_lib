@@ -1,0 +1,12 @@
+CSV text has been written to file : CrystalOscillator.csv
+
+Library Component Count : 5
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+XTAL327             Oscillator CRYSTAL 32.768 KHz 12.5 pF SMD
+XTAL8M_2P           Oscillator CRYSTAL 8.0 MHz 16 pF SMD
+XTAL_12             Oscillator Crystal 12.000 MHz 8 PF SMD
+XTAL_12_4P          Oscillator Crystal 12.000 MHz 8 PF SMD
+XTAL_8_4P           Oscillator Crystal 8.000 MHz 10 PF SMD

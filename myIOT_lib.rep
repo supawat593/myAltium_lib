@@ -1,6 +1,6 @@
 CSV text has been written to file : myIOT_lib.csv
 
-Library Component Count : 134
+Library Component Count : 122
 
 Name                Description
 ----------------------------------------------------------------------------------------------------
@@ -23,14 +23,14 @@ BD49L33G            IC BD49L33G-TL Power Management 1-CH 3-SSOP
 BD5291FVE-GTR       BD5291FVE-GTR  Input/Output Full Swing  Low Input Offset Voltage  Operational Amplifier
 BD8306MUV-E2        BD8306MUV-E2 Buck-Boost Converter 1.8V to 5.5V integrated 2.0A
 BD9C601EFJ          
-BD9D321EFJ          
+BD9D321EFJ          IC BD9D321EFJ-E2 Buck Converter 0.765-7V 3A HTSOP-J8 
 BD9G341AEFJ         IC BD9G341AEFJ-E2 REGULATOR 12-76V 3A
 BD9G500EFJ          IC BD9G500EFJ-LAE2 REGULATOR 12-76V 5A
 BG96                BG96 IoT NB/Cat.M1 RF Module  Quectel
 BLUEPILL_stm32      Arduino STM32F103C8T6 ARM STM32 with Bootloader
 BM70BLES1FC2        BM70BLES1FC2  Bluetooth 5 (BLE) Module Integrated Ant 1.9-3.6Vrate
 BQ24210             bq24210 800-mA, Single-Input, Single-Cell Li-Ion Battery Solar Charger
-BU33SD5WG-TR        CMOS LDO Regulators 1Ch 3.3V/500mA Accuracy ±2%, for Portable Equipment
+BU33SD5WG           CMOS LDO Regulators 1Ch 3.3V/500mA Accuracy ±2%, for Portable Equipment
 Brd_BME280          Module BME280
 Brd_GY9250          Module GY9250
 CASTELLPIN          Edge Castellation PCB pin
@@ -62,13 +62,6 @@ L7805CD2T           IC 7805 Regulator 5V D2PAK
 LAN_HY911103A       ConnectorRJ45 Magnetic with 2 LEDfor 10/100
 LARA-R2             LARA MODULE UBLOX
 LDL212PVR           IC LDL212PVR Regulator LIN 1.18V 1.2A 6-WFDFN
-LED0805_BLUE        LED TO-2013BC-BF SMD Blue Water Clear 146 MCD
-LED0805_GRN         LED TO-2013BC-MGE SMD Green water clear 146 MCD
-LED0805_RED         LED
-LED0805_YLW         LED TO-2013BC-MYE SMD Yellow water clear 146 MCD
-LED3MMH_BLU         LED Housing Dia = 3mm BLUE, 450mcd
-LED3MMH_YLW         LED Housing Dia = 3mm YELLOW, 220mcd
-LED_RGB             LED RGB COMMON ANODE
 LF353D              IC LF353DR J-FET OP-AMP 2 Circuit 8-SOIC
 LM1117MPX-3.3       IC LM1117MPX-3.3/NOPB Reg LDO 3.3V 800mA SOT-223
 LMV431ACM5/NOPB     Low-Voltage (1.24V) Adjustable Precision Shunt Regulators, 5-pin SOT-23, Pb-Free
@@ -134,10 +127,5 @@ USBmicroB           Micro USB 2.0 ReceptacleType B Connector 5 Position, R/A(Dig
 USBmicroB_ST        Micro USB 2.0 ReceptacleType B Connector 5 Position, S/T(105133-0001)
 USBmini             USB mini type B 5 pins receptacle
 W25Q16JVSSIQ        NOR-SPI Flash Winbond W25Q16JVSSIQ Power Supply 2.7V to 3.6V
-XTAL327             Oscillator CRYSTAL 32.768 KHz 12.5 pF SMD
-XTAL8M_2P           Oscillator CRYSTAL 8.0 MHz 16 pF SMD
-XTAL_12             Oscillator Crystal 12.000 MHz 8 PF SMD
-XTAL_12_4P          Oscillator Crystal 12.000 MHz 8 PF SMD
-XTAL_8_4P           Oscillator Crystal 8.000 MHz 10 PF SMD
 ZED_F9P             
 brd_11u68-100P      

@@ -44,4 +44,4 @@
 "ECAP_SMD_10U_35V","E-CAP5x5.4","M0086","=Value","Nichicon","UWT1V100MCL1GB","5.06","Jacky","10uF/35V","","CT?","Capacitor SMD Electrolytic 10 uF 35V"
 "ECAP_SMD_220U_50V","E-CAP10X10","M2135","=Value","Nichicon","UWT1H221MNL1GS","5.06","ES","220uF/50V","","CT?","Capacitor SMD Electrolytic 220 uF 50V"
 "ECAP_SMD_470U_10V","E-CAP8X10","M1750","=Value","Nichicon","UWT1A471MNL1GS","5.06","Jacky","470uF/10V","","CT?","Capacitor SMD Electrolytic 470 uF 10V"
-"SUPERCAP_0F22","SUPERCAP_5V5","D0733","=Value","KEMET","EECS0HD224V","5.06","Jacky","0.22F","","SCP?","Capacitor Radial Stacked Coin 0.22 F 5.5V Double Layer"
+"SUPERCAP_0F22","SUPERCAP_5V5","D0733","=Value","Panasonic Electronic Components","EECS0HD224V","5.06","Jacky","0.22F","","SCP?","Capacitor Radial Stacked Coin 0.22 F 5.5V Double Layer"
