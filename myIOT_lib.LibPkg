@@ -195,47 +195,47 @@ DocumentPath=ADNB95C.PcbLib.htm
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Capacitors.csv
+DocumentPath=Capacitors.cmp
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Capacitors.rep
+DocumentPath=Capacitors.csv
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=CrystalOscillator.csv
+DocumentPath=Capacitors.rep
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=CrystalOscillator.rep
+DocumentPath=CrystalOscillator.csv
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Diodes.csv
+DocumentPath=CrystalOscillator.rep
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Diodes.rep
+DocumentPath=Diodes.csv
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Inductor.csv
+DocumentPath=Diodes.rep
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Inductor.rep
+DocumentPath=Inductor.csv
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=LED.csv
+DocumentPath=Inductor.rep
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=LED.rep
+DocumentPath=LED.csv
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=myIOT_lib.cmp
+DocumentPath=LED.rep
 DItemRevisionGUID=
 
 [GeneratedDocument13]

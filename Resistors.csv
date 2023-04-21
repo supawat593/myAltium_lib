@@ -2,7 +2,7 @@
 "R0603_0R","R0603XS","M0195","=Value","YAGEO","RC0603FR-070RL","0.4","Digikey","0R","","R?","Resistor smd 0603 0 Ohm"
 "R0603_101","R0603XS","M1032","=Value","Panasonic Electronic Components","ERJ-3EKF1000V","0.4","Digikey","100R","","R?","Resistor smd 0603 100 Ohm"
 "R0603_102","R0603XS","M0189","=Value","YAGEO","RC0603FR-071KL","0.4","Digikey","1K","","R?","Resistor smd 0603 1 kOhm"
-"R0603_103","R0603XS","M0186","=Value","YAGEO","RC0603FR-0710KL","0.4","Digikey","10K","","R?","Resistor smd 0603 10 kOhm"
+"R0603_103","R0603XS","M0186","=Value","YAGEO","RC0603FR-0710KL","0.1","Digikey","10K","","R?","Resistor smd 0603 10 kOhm"
 "R0603_104","R0603XS","M1115","=Value","YAGEO","RC0603JR-07100KL","0.4","Digikey","100K","","R?","Resistor smd 0603 100 kOhm"
 "R0603_105","R0603XS","M1030","=Value","Panasonic Electronic Components","ERJ-3EKF1004V","0.4","Digikey","1M","","R?","Resistor smd 0603 1 MOhm"
 "R0603_10R","R0603XS","M0193","=Value","Stackpole Electronics Inc","RMCF0603FT10R0","0.4","Digikey","10R","","R?","Resistor smd 0603 10 Ohm"
