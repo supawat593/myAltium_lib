@@ -1,10 +1,10 @@
 PCB Library : ADNB95C.PcbLib
-Date        : 29-Mar-23
-Time        : 19:29:47
+Date        : 2023-04-24
+Time        : 2:40:20 PM
 
 
 
-Component Count : 238
+Component Count : 240
 
 Component Name
 -----------------------------------------------
@@ -74,9 +74,11 @@ DIPSW_SMD2P
 DIPSW_SMD4P
 DO-41
 DO-214AB
-E-CAP6.3X
+E-CAP4X5.4
+E-CAP5x5.4
 E-CAP6.3X5.5
-E-CAP8X
+E-CAP6.3X5.8
+E-CAP6.3X7.7
 E-CAP8X10
 E-CAP10X10
 EDGE26
