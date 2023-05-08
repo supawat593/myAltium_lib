@@ -1,10 +1,10 @@
 PCB Library : ADNB95C.PcbLib
-Date        : 2023-04-24
-Time        : 2:40:20 PM
+Date        : 2023-05-31
+Time        : 4:27:52 PM
 
 
 
-Component Count : 240
+Component Count : 241
 
 Component Name
 -----------------------------------------------
@@ -111,7 +111,6 @@ HDR2X3 - 3D
 HDR2X3H
 HDR2X6M
 HDR27
-HOLE_M3
 HTSOP-J8
 INDP3030X15N
 INDP4040X12N
@@ -119,6 +118,7 @@ INDP4949X31N
 INDP100100X40N
 INDP120120X67N
 INDP126126X65N
+JP2_SMD
 JP0603
 JUMPER2.0p
 Keystone_3557-2
@@ -173,6 +173,7 @@ NFC40x20
 NTC1X2
 NXP-SOT407-1_V
 PCB_TERM_TAB635
+PTH_M3
 PVQFN-14
 QFN-24_4x4x05P
 QFN-28_5x5x05P

@@ -1,15 +1,13 @@
-Component   : 5EHDVC-2P
+Component   : JP2_SMD
 PCB Library : ADNB95C.PcbLib
-Date        : 2023-04-24
-Time        : 2:40:25 PM
+Date        : 2023-05-31
+Time        : 4:27:49 PM
 
 
 
-Dimension : 22.225 x 10.058 mm
+Dimension : 15.748 x 2.54 mm
 
  Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
 --------------------------------------------------------------------
- Top Overlay                 0          4        0       0        0
- Multi Layer                 2          0        0       0        0
 --------------------------------------------------------------------
- Total                       2          4        0       0        0
+ Total                       0          0        0       0        0

@@ -1,0 +1,80 @@
+Component Name : STM32F401RET6
+
+Part Count : 3
+
+Part : U?
+     Pins - (Normal) : 0
+          Hidden Pins : 
+
+Part : U?A
+     Pins - (Normal) : 52
+          PA0            14             I/O
+          PA1            15             I/O
+          PA2            16             I/O
+          PA3            17             I/O
+          PA4            20             I/O
+          PA5            21             I/O
+          PA6            22             I/O
+          PA7            23             I/O
+          PA8            41             I/O
+          PA9            42             I/O
+          PA10           43             I/O
+          PA11           44             I/O
+          PA12           45             I/O
+          PA13           46             I/O
+          PA14           49             I/O
+          PA15           50             I/O
+          PB0            26             I/O
+          PB1            27             I/O
+          PB2            28             I/O
+          PB3            55             I/O
+          PB4            56             I/O
+          PB5            57             I/O
+          PB6            58             I/O
+          PB7            59             I/O
+          PB8            61             I/O
+          PB9            62             I/O
+          PB10           29             I/O
+          PB12           33             I/O
+          PB13           34             I/O
+          PB14           35             I/O
+          PB15           36             I/O
+          PC0            8              I/O
+          PC1            9              I/O
+          PC2            10             I/O
+          PC3            11             I/O
+          PC4            24             I/O
+          PC5            25             I/O
+          PC6            37             I/O
+          PC7            38             I/O
+          PC8            39             I/O
+          PC9            40             I/O
+          PC10           51             I/O
+          PC11           52             I/O
+          PC12           53             I/O
+          PC13           2              I/O
+          PC14-OSC32_IN  3              I/O
+          PC15-OSC32_OUT 4              I/O
+          PD2            54             I/O
+          PH0-OSC_IN     5              I/O
+          PH1            6              I/O
+          NRST           7              I/O
+          BOOT0          60             Input
+          Hidden Pins : 
+
+Part : U?B
+     Pins - (Normal) : 12
+          VSS            18             Power
+          VSS            31             Power
+          VSS            47             Power
+          VSS            63             Power
+          VSSA/VREF-     12             Power
+          VBAT           1              Power
+          VDD            19             Power
+          VDD            32             Power
+          VDD            48             Power
+          VDD            64             Power
+          VDDA/VREF+     13             Power
+          VCAP1          30             Power
+          Hidden Pins : 
+
