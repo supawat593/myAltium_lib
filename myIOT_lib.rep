@@ -1,6 +1,6 @@
 CSV text has been written to file : myIOT_lib.csv
 
-Library Component Count : 122
+Library Component Count : 124
 
 Name                Description
 ----------------------------------------------------------------------------------------------------
@@ -18,6 +18,7 @@ AT45DB161E          AT45DB161E-SUD-T Flash Memory 16M, 2.5-3.6V SPI SOIC-8
 Ant_W3544A          LTE Antenna (W3544A) 850-900/1710-2170MHz PCB Trace
 Arduino_CatNB       Arduino Shield Cat.M1/NB
 BC95                LTE  NB-IoT Module, Model : BC95-G, Quectel
+BD2242G             1ch Adjustable Current Limit High Side Switch ICs, Open-Drain Fault Flag Output,Active-High Control Input Logic,Soft-Start Circuit
 BD48L32G            BD48L32G  Voltage Supervisor 3.2V,Open Drain ,Active LOW
 BD49L33G            IC BD49L33G-TL Power Management 1-CH 3-SSOP
 BD5291FVE-GTR       BD5291FVE-GTR  Input/Output Full Swing  Low Input Offset Voltage  Operational Amplifier
@@ -104,6 +105,7 @@ SN75176BDR          SN75176 Differential Bus TransceiverRS-485/RS-422
 SQ_SEN_390          Sensor SQ-SEN-390 On/Off Tilt sensor
 SQ_SEN_XXX          Tilt Detect Switch SQ-SEN-XXX
 STM32F072RBT6       
+STM32F401RET6       IC MCU STM32F401RET6
 STM32F429ZIT6       ARM Cortex-M4 32-bit MCU+FPU, 225 DMIPS, 2048 kB Flash, 256 kB Internal RAM, 114 I/Os, 144-pin LQFP, -40 to 85 degC, Tray
 SW DIP-4            DIP Switch, 4 Position, SPST
 SW-SPST             Single-Pole, Single-Throw Switch

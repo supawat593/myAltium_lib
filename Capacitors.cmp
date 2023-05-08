@@ -1,23 +1,13 @@
-Component Name : ECAP_SMD_10U_16V
+Component Name : C0805_180_50V
 
 Part Count : 2
 
-Part : CT?
+Part : C?
      Pins - (Normal) : 0
           Hidden Pins : 
 
-Part : CT?
-     Pins - (Alternate 1) : 0
-          Hidden Pins : 
-
-Part : CT?
+Part : C?
      Pins - (Normal) : 2
-          1              1              Passive
-          2              2              Passive
-          Hidden Pins : 
-
-Part : CT?
-     Pins - (Alternate 1) : 2
           1              1              Passive
           2              2              Passive
           Hidden Pins : 
