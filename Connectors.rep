@@ -1,6 +1,6 @@
 CSV text has been written to file : Connectors.csv
 
-Library Component Count : 22
+Library Component Count : 25
 
 Name                Description
 ----------------------------------------------------------------------------------------------------
@@ -24,6 +24,9 @@ MicroSIM_molex      Connector Micro SIM Card Hinged Lid 6-Contact 1.6mm Height
 PCB_TERM            
 SIMCARD             Connector for Multipole SIM card ,6 pin, 1.27 mm pitch PCB SMT
 UFL_RECP            Connector UMCC IPEX MHF1 Receptacle (M) SMD 50 Ohm
+USB4105-GF-A-060    USB Connector Type C SMT 12 Pin
+USB4145-03-0170-C   USB Connector Type C SMT 16 Pin Vertical
+USB4510-03-1-A      USB Connector Type C SMT Mid-Mount 16 Pin
 USBmicroB           Micro USB 2.0 ReceptacleType B Connector 5 Position, R/A(Digikey:609-4618-1-ND)
 USBmicroB_ST        Micro USB 2.0 ReceptacleType B Connector 5 Position, S/T(105133-0001)
 USBmini             USB mini type B 5 pins receptacle
