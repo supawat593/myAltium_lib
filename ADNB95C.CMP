@@ -1,15 +1,15 @@
-Component   : SIP2/2.54
+Component   : USB4145-03-0170-C
 PCB Library : ADNB95C.PcbLib
-Date        : 2023-06-01
-Time        : 11:11:52 AM
+Date        : 2023-06-13
+Time        : 10:57:22 AM
 
 
 
-Dimension : 5.232 x 3.505 mm
+Dimension : 11.633 x 5.41 mm
 
  Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
 --------------------------------------------------------------------
- Top Overlay                 0          5        0       1        0
- Multi Layer                 2          0        0       0        0
+ Top Overlay                 0          2        0       1        0
+ Multi Layer                 6          0        0       0        0
 --------------------------------------------------------------------
- Total                       2          5        0       1        0
+ Total                       6          2        0       1        0

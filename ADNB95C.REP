@@ -1,10 +1,10 @@
 PCB Library : ADNB95C.PcbLib
-Date        : 2023-06-01
-Time        : 11:11:57 AM
+Date        : 2023-06-13
+Time        : 10:57:28 AM
 
 
 
-Component Count : 242
+Component Count : 246
 
 Component Name
 -----------------------------------------------
@@ -170,6 +170,7 @@ MOLEX-788000001
 MOLEX-0475532001
 MSOP10
 NFC40x20
+NPTH_M3
 NTC1X2
 NXP-SOT407-1_V
 PCB_TERM_TAB635
@@ -240,6 +241,9 @@ TSSOP50P310X90-8N
 U-DFN3030-8
 UBlox_ZED
 UFL_recep_SMT
+USB4105-GF-A-060
+USB4145-03-0170-C
+USB4510-03-1-A
 VQFN016V3030
 VR5
 VSOF5
