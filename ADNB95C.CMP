@@ -1,13 +1,15 @@
-Component   : JP2_SMD
+Component   : SIP2/2.54
 PCB Library : ADNB95C.PcbLib
-Date        : 2023-05-31
-Time        : 4:27:49 PM
+Date        : 2023-06-01
+Time        : 11:11:52 AM
 
 
 
-Dimension : 15.748 x 2.54 mm
+Dimension : 5.232 x 3.505 mm
 
  Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
 --------------------------------------------------------------------
+ Top Overlay                 0          5        0       1        0
+ Multi Layer                 2          0        0       0        0
 --------------------------------------------------------------------
- Total                       0          0        0       0        0
+ Total                       2          5        0       1        0

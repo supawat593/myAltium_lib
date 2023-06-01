@@ -1,0 +1,29 @@
+CSV text has been written to file : Connectors.csv
+
+Library Component Count : 22
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+18650BATT1C         18650 Battery 1 Cell Holder SMD
+18650BATT2          18650 Battery 2 Cell Holder SMD
+CLIP18650           clip 18650
+Circuit Breaker     Circuit Breaker
+Fuse _auto          Automive Fuse Holder 19mm x5 mm
+HDR27               
+Header 2            Header, 2-Pin
+Header 3            Header, 3-Pin
+Header 6            Header, 6-Pin
+Header_25           Header, 25-Pin
+JP2                 
+JP_SMD              Jumper SMD 0603 size
+Jumper              Small Jumper for (M) pin header pitch 2.0mm
+LAN_HY911103A       ConnectorRJ45 Magnetic with 2 LEDfor 10/100
+MicroSIM            Connector for Micro SIM card ,8 pin, 1.27 mm pitch PCB SMT
+MicroSIM_molex      Connector Micro SIM Card Hinged Lid 6-Contact 1.6mm Height
+PCB_TERM            
+SIMCARD             Connector for Multipole SIM card ,6 pin, 1.27 mm pitch PCB SMT
+UFL_RECP            Connector UMCC IPEX MHF1 Receptacle (M) SMD 50 Ohm
+USBmicroB           Micro USB 2.0 ReceptacleType B Connector 5 Position, R/A(Digikey:609-4618-1-ND)
+USBmicroB_ST        Micro USB 2.0 ReceptacleType B Connector 5 Position, S/T(105133-0001)
+USBmini             USB mini type B 5 pins receptacle
