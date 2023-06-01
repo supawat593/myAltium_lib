@@ -1,12 +1,10 @@
 CSV text has been written to file : myIOT_lib.csv
 
-Library Component Count : 124
+Library Component Count : 104
 
 Name                Description
 ----------------------------------------------------------------------------------------------------
 
-18650BATT1C         18650 Battery 1 Cell Holder SMD
-18650BATT2          18650 Battery 2 Cell Holder SMD
 74HC595D_[C5947]    74HC595D
 74LVC1T45GW         IC 74LVC1T45GW-W100H Level Translator 6-TSSOP
 74LVCH2T45DC        IC 74LVCH2T45DC-Q100H Level Translator VSSOP-8
@@ -36,7 +34,6 @@ Brd_BME280          Module BME280
 Brd_GY9250          Module GY9250
 CASTELLPIN          Edge Castellation PCB pin
 CH340G_[C14267]     USB
-CLIP18650           clip 18650
 CP2102-GMR_[C6568]  USB
 CP2104-F03-GM_[C47742]USB
 DALC208             Diode DALC208SC6 Diode suppresssor 9V SOT23-6
@@ -48,19 +45,10 @@ FIDU31
 FIL_SAW400          
 FT231XQ-R           IC FT231XQ-R USB to Serial UART Interface w/ Dull Modem CTRL
 FT234XD             M1728 IC FT234XD-R USB to Serial UART 12DFN
-Fuse _auto          Automive Fuse Holder 19mm x5 mm
 GPS_ANT25           GNSS active antenna 25x25 mm
 Gain_block1         
-HDR27               
-Header 2            Header, 2-Pin
-Header 3            Header, 3-Pin
-Header 6            Header, 6-Pin
-Header_25           Header, 25-Pin
 ICL7660             IC ICL7660CSA+ Regulator Charge Pump INV 20mA 8-SO
-JP_SMD              Jumper SMD 0603 size
-Jumper              Small Jumper for (M) pin header pitch 2.0mm
 L7805CD2T           IC 7805 Regulator 5V D2PAK
-LAN_HY911103A       ConnectorRJ45 Magnetic with 2 LEDfor 10/100
 LARA-R2             LARA MODULE UBLOX
 LDL212PVR           IC LDL212PVR Regulator LIN 1.18V 1.2A 6-WFDFN
 LF353D              IC LF353DR J-FET OP-AMP 2 Circuit 8-SOIC
@@ -84,12 +72,9 @@ MK22FN512VLH12      IC MK22FN512VLH12 MCU 32-Bit 512KB Flash 64LQFP ARM Cortec-M
 MK22FN512VLH12X     IC MK22FN512VLH12 MCU 32-Bit 512KB Flash 64LQFP ARM Cortec-M4
 MTH_M3              Mounting Hole M3 diameter 3.2mm
 MX25R1635FM2IH1     NOR-Flash Macronix MX25R1635FM2IH1
-MicroSIM            Connector for Micro SIM card ,8 pin, 1.27 mm pitch PCB SMT
-MicroSIM_molex      Connector Micro SIM Card Hinged Lid 6-Contact 1.6mm Height
 Modem_ICS           
 NTC_10K             NTC 10K , 2-Pin
 PCA9306             IC VOLT-LVL TRANSL PCA9306DTR2G Translator TSSOP-8
-PCB_TERM            
 PESD5V0U1UB         ESD PESD5V0V1BB  SOD523
 RPOT_25T_104        Potentiometer 100 kOhm 25T Top Adj.
 RPOT_25T_202        Potentiometer 2 kOhm 25T Top Adj.
@@ -97,7 +82,6 @@ SARA-R4             LTE NB-IoT Module, Model : SARA-R410M Cat.M1, Ublox
 SARA-U2             HSPA/GSM Module, Model : SARA-U201 for Global coverage, Ublox
 SIM39EA             
 SIM7600E-H          4G LTE Module, Model : SIM7600E-H1C, SIMCOM
-SIMCARD             Connector for Multipole SIM card ,6 pin, 1.27 mm pitch PCB SMT
 SN74AVC2T245        SN74AVC2T245  Dual-Bit  Dual-Supply  Bus Transceiver  with Configurable  Level-Shifting  /  Voltage  Translation  and Tri-State  Outputs
 SN74LVC1G3157DBVR   IC SN74LVC1G3157DBVR Analog Switch SPDT 340 MHz 1.65V to 5.5V
 SN74LVC2GU04DBVR    SN74LVC2GU04DBVR  sot-23-6
@@ -124,10 +108,6 @@ TXB0108PWR          IC TXB0108PWR 8 bits Logic Translator TSSOP-20
 TXS0104E            TXS0104E 4-Bit Bidirectional Voltage-Level Translator for Open-Drain and Push-Pull
 Applications
 TXS0108EPWR         IC TXS0108EPWR 8 bits Logic Translator TSSOP-20
-UFL_RECP            Connector UMCC IPEX MHF1 Receptacle (M) SMD 50 Ohm
-USBmicroB           Micro USB 2.0 ReceptacleType B Connector 5 Position, R/A(Digikey:609-4618-1-ND)
-USBmicroB_ST        Micro USB 2.0 ReceptacleType B Connector 5 Position, S/T(105133-0001)
-USBmini             USB mini type B 5 pins receptacle
 W25Q16JVSSIQ        NOR-SPI Flash Winbond W25Q16JVSSIQ Power Supply 2.7V to 3.6V
 ZED_F9P             
 brd_11u68-100P      

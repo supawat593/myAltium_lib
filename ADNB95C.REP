@@ -1,10 +1,10 @@
 PCB Library : ADNB95C.PcbLib
-Date        : 2023-05-31
-Time        : 4:27:52 PM
+Date        : 2023-06-01
+Time        : 11:11:57 AM
 
 
 
-Component Count : 241
+Component Count : 242
 
 Component Name
 -----------------------------------------------
@@ -191,6 +191,7 @@ SARA_LARA
 SARA - LPAD
 SAW3X3
 SIM7600E_H
+SIP2/2.54
 SMA
 SMA5.08-H5RA
 SMD_49S
