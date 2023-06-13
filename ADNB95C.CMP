@@ -1,15 +1,14 @@
-Component   : USB4145-03-0170-C
+Component   : LQFP-100_14x14x05P
 PCB Library : ADNB95C.PcbLib
-Date        : 2023-06-13
-Time        : 10:57:22 AM
+Date        : 28-Jun-23
+Time        : 19:34:28
 
 
 
-Dimension : 11.633 x 5.41 mm
+Dimension : 17.475 x 17.475 mm
 
  Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
 --------------------------------------------------------------------
- Top Overlay                 0          2        0       1        0
- Multi Layer                 6          0        0       0        0
+ Top Overlay                 0          4        0       2        0
 --------------------------------------------------------------------
- Total                       6          2        0       1        0
+ Total                       0          4        0       2        0
