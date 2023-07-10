@@ -1,14 +1,14 @@
-Component   : LQFP-100_14x14x05P
+Component   : A7670E
 PCB Library : ADNB95C.PcbLib
-Date        : 28-Jun-23
-Time        : 19:34:28
+Date        : 2023-07-10
+Time        : 2:19:26 PM
 
 
 
-Dimension : 17.475 x 17.475 mm
+Dimension : 28.169 x 28.092 mm
 
  Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
 --------------------------------------------------------------------
- Top Overlay                 0          4        0       2        0
+ Top Overlay                 0         13        0       1        0
 --------------------------------------------------------------------
- Total                       0          4        0       2        0
+ Total                       0         13        0       1        0
