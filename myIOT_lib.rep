@@ -1,6 +1,6 @@
 CSV text has been written to file : myIOT_lib.csv
 
-Library Component Count : 105
+Library Component Count : 106
 
 Name                Description
 ----------------------------------------------------------------------------------------------------
@@ -8,6 +8,7 @@ Name                Description
 74HC595D_[C5947]    74HC595D
 74LVC1T45GW         IC 74LVC1T45GW-W100H Level Translator 6-TSSOP
 74LVCH2T45DC        IC 74LVCH2T45DC-Q100H Level Translator VSSOP-8
+A7670E              4G LTE Module, SIMCOM A7670E
 ADR512ARTZ          ADR512ARTZ VRef Shunt Precision 1.2V SOT-23-3
 ANT_WM16803CT-ND    SMD Ant. molex WM16803CT-ND
 AP7331-SNG          300mA, LOW QUIESCENT CU  RRENT, FAST TRANSIENT   LOW DROPOUT LINEAR REGULATOR
@@ -29,7 +30,7 @@ BG96                BG96 IoT NB/Cat.M1 RF Module  Quectel
 BLUEPILL_stm32      Arduino STM32F103C8T6 ARM STM32 with Bootloader
 BM70BLES1FC2        BM70BLES1FC2  Bluetooth 5 (BLE) Module Integrated Ant 1.9-3.6Vrate
 BQ24210             bq24210 800-mA, Single-Input, Single-Cell Li-Ion Battery Solar Charger
-BU33SD5WG           CMOS LDO Regulators 1Ch 3.3V/500mA Accuracy ±2%, for Portable Equipment
+BU33SD5WG           CMOS LDO Regulators 1Ch 3.3V/500mA Accuracy ?2%, for Portable Equipment
 Brd_BME280          Module BME280
 Brd_GY9250          Module GY9250
 CASTELLPIN          Edge Castellation PCB pin
@@ -61,7 +62,7 @@ LPC1768MBED_MODULE  LPC1768 MBED MODULE
 Linkit7688          Linkit Smart 7688 (102110018) Controller
 Linkit7688duo       
 MAX-8Q              GNSS Module, Model : MAX-8Q with GPS, Ublox
-MAX3232CSE          3.0V TO 5.5V, Low-Power, up to 1Mbps, True RS-232 Transceiver Using Four 0.1?F External Capacitor
+MAX3232CSE          3.0V TO 5.5V, Low-Power, up to 1Mbps, True RS-232 Transceiver Using Four 0.1µF External Capacitor
 MCP121T             MCP121T-300E/LB Micropower Voltage Supervisor 2.93V,Active LOW
 MCP16251            Low Quiescent Current, PFM/PWM Synchronous Boost Regulator sot23-6
 MCP23017T-E/SO      16-Bit I/O Expander with Serial Interface, 28-Pin SOIC, Extended Temperature, Tape and Reel
