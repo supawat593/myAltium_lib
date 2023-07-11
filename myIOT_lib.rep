@@ -1,6 +1,6 @@
 CSV text has been written to file : myIOT_lib.csv
 
-Library Component Count : 106
+Library Component Count : 105
 
 Name                Description
 ----------------------------------------------------------------------------------------------------
@@ -76,7 +76,6 @@ MX25R1635FM2IH1     NOR-Flash Macronix MX25R1635FM2IH1
 Modem_ICS           
 NTC_10K             NTC 10K , 2-Pin
 PCA9306             IC VOLT-LVL TRANSL PCA9306DTR2G Translator TSSOP-8
-PESD5V0U1UB         ESD PESD5V0V1BB  SOD523
 RPOT_25T_104        Potentiometer 100 kOhm 25T Top Adj.
 RPOT_25T_202        Potentiometer 2 kOhm 25T Top Adj.
 SARA-R4             LTE NB-IoT Module, Model : SARA-R410M Cat.M1, Ublox
