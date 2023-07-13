@@ -1,33 +1,25 @@
-Component Name : A7670E
+Component Name : A7672E
 
-Part Count : 2
+Part Count : 3
 
 Part : U?
      Pins - (Normal) : 0
           Hidden Pins : 
 
-Part : U?
-     Pins - (Normal) : 88
+Part : U?A
+     Pins - (Normal) : 85
           PWRKEY         1              Input
           RESET          16             Input
-          GND            18             Power
-          GND            29             Power
-          GND            39             Power
-          GND            45             Power
-          GND            46             Power
-          GND            54             Power
-          USIM_DATA      31             I/O
-          USIM_RST       33             Output
-          USIM_CLK       32             Output
-          USIM_VDD       30             Output
-          NC             51             Passive
-          NC             53             Passive
-          GND            2              Power
-          GND            17             Power
-          CTS            7              Input
+          USIM1_DATA     31             I/O
+          USIM1_RST      33             Output
+          USIM1_CLK      32             Output
+          USIM1_VDD      30             Output
+          VBAT_ADC       51             Passive
+          GPIO4          53             Passive
+          CTS            7              Output
           RXD            10             Input
           DTR            3              Input
-          RTS            8              Output
+          RTS            8              Input
           RI             4              Output
           DCD            5              Output
           TXD            9              Output
@@ -36,44 +28,89 @@ Part : U?
           UART_LOG_RX    22             Input
           UART_LOG_TX    23             Output
           ADC            25             Input
-          NC             35             Passive
-          NC             36             Passive
-          NC             40             Passive
+          MK_OUT_6/I2C3_SDA35             Passive
+          MK_IN_6/I2C3_SCL36             Passive
+          EAR_P          40             Passive
           USB_BOOT       6              Input
           VBAT           55             Power
           VBAT           56             Power
           VBAT           57             Power
-          NC             42             Passive
-          NC             41             Passive
+          MIC_P          42             Passive
+          EAR_N          41             Passive
           VDD_EXT_1V8    15             Power
+          MK_OUT_2       44             Passive
+          MK_IN_2        47             Passive
+          SPI_MOSI       13             Output
+          SPI_MISO       14             Input
+          SPI_CS         12             Output
+          SPI_CLK        11             Output
+          MK_OUT_3       21             I/O
+          GPIO1          19             I/O
+          MK_IN_3        20             I/O
+          UART3_RXD      49             Input
+          GPIO3          48             I/O
+          MK_OUT_5       67             Passive
+          NETLIGHT       52             Output
+          STATUS         66             Output
+          MK_IN_5        68             Passive
+          USIM1_DET      34             I/O
+          RF_ANT         60             I/O
+          MIC_N          43             Passive
+          UART3_TXD      50             Output
+          USB_VBUS       24             Input
+          USB_DM         28             I/O
+          USB_DP         27             I/O
+          GPIO2          26             Passive
+          GNSS_ANT       90             Power
+          BT_ANT         93             Power
+          GNSS_TXD       95             Output
+          GNSS_RXD       96             Input
+          1V8_GNSS       97             Power
+          GNSS_PWRCTL    98             Input
+          VDD_AUX        99             Power
+          1PPS           100            Output
+          LCD_BL_PWM     101            Output
+          LCD_SPI_CLK    102            Output
+          LCD_SPI_TXD    103            I/O
+          LCD_SPI_RXD    104            Input
+          LCD_SPI_CS     105            Output
+          LCD_RST        106            Output
+          LCD_DCX        107            Output
+          USIM2_DATA     108            I/O
+          USIM2_CLK      109            Output
+          USIM2_VDD      110            Output
+          USIM2_RST      111            Output
+          USIM2_DET      112            I/O
+          NC             113            Passive
+          NC             114            Passive
+          NC             115            Passive
+          GNSS_VBKP      116            Power
+          CAM_I2C_SDA    117            I/O
+          CAM_I2C_SCL    118            Output
+          CAM_PWDN       119            Output
+          CAM_RST        120            Output
+          CAM_MCLK       121            Output
+          CAM_SPI_D0     122            Input
+          CAM_SPI_D1     123            Input
+          CAM_SPI_CLK    124            Output
+          Hidden Pins : 
+
+Part : U?B
+     Pins - (Normal) : 39
+          GND            18             Power
+          GND            29             Power
+          GND            39             Power
+          GND            45             Power
+          GND            46             Power
+          GND            54             Power
+          GND            2              Power
+          GND            17             Power
           GND            59             Power
           GND            61             Power
           GND            62             Power
           GND            63             Power
           GND            64             Power
           GND            65             Power
-          NC             44             Passive
-          NC             47             Passive
-          PCM_IN         13             Input
-          PCM_OUT        14             Output
-          PCM_SYNC       12             Output
-          PCM_CLK        11             Output
-          GPIO3          21             I/O
-          GPIO1          19             I/O
-          GPIO2          20             I/O
-          GPIO4          49             I/O
-          GPIO9          48             I/O
-          GPIO10         67             I/O
-          NETLIGHT       52             Output
-          STATUS         66             Output
-          GPIO11         68             I/O
-          USIM_DET       34             I/O
-          RF_ANT         60             I/O
-          NC             43             Passive
-          GPIO5          50             I/O
-          USB_VBUS       24             Input
-          USB_DM         28             I/O
-          USB_DP         27             I/O
           GND            58             Power
           GND            69             Power
           GND            70             Power
@@ -95,6 +132,9 @@ Part : U?
           GND            86             Power
           GND            87             Power
           GND            88             Power
-          NC             26             Passive
+          GND            89             Power
+          GND            91             Power
+          GND            92             Power
+          GND            94             Power
           Hidden Pins : 
 

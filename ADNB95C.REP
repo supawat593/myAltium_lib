@@ -1,10 +1,10 @@
 PCB Library : ADNB95C.PcbLib
-Date        : 2023-07-10
-Time        : 2:19:29 PM
+Date        : 2023-07-13
+Time        : 10:29:22 AM
 
 
 
-Component Count : 248
+Component Count : 249
 
 Component Name
 -----------------------------------------------
@@ -35,7 +35,8 @@ Component Name
 18650BATT2
 18650BATT2 - BENT
 112502ST/RH
-A7670E
+A7670X
+A7672X
 ADN_NB
 ADN_NB - w/o-ICSP
 AXIAL-0.3_2K2

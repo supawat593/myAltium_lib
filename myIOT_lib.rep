@@ -1,6 +1,6 @@
 CSV text has been written to file : myIOT_lib.csv
 
-Library Component Count : 105
+Library Component Count : 106
 
 Name                Description
 ----------------------------------------------------------------------------------------------------
@@ -9,6 +9,7 @@ Name                Description
 74LVC1T45GW         IC 74LVC1T45GW-W100H Level Translator 6-TSSOP
 74LVCH2T45DC        IC 74LVCH2T45DC-Q100H Level Translator VSSOP-8
 A7670E              4G LTE Module, SIMCOM A7670E
+A7672E              4G LTE Module, SIMCOM A7672E
 ADR512ARTZ          ADR512ARTZ VRef Shunt Precision 1.2V SOT-23-3
 ANT_WM16803CT-ND    SMD Ant. molex WM16803CT-ND
 AP7331-SNG          300mA, LOW QUIESCENT CU  RRENT, FAST TRANSIENT   LOW DROPOUT LINEAR REGULATOR
