@@ -1,6 +1,6 @@
 CSV text has been written to file : Capacitors.csv
 
-Library Component Count : 51
+Library Component Count : 52
 
 Name                Description
 ----------------------------------------------------------------------------------------------------
@@ -22,6 +22,7 @@ C0603_225_35V       Capacitor 0603 2.2 uF 35V X5R
 C0603_270           Capacitor 0603 27 pF
 C0603_330           Capacitor 0603 33 pF
 C0603_331           Capacitor 0603 330 pF 50V
+C0603_3P9_50V       Capacitor 0603 3.9 pF 50V
 C0603_470           Capacitor 0603 47 pF
 C0603_472           Capacitor 0603 4700 pF 50V
 C0603_560           Capacitor 0603 56 pF
