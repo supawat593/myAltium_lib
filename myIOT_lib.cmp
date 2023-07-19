@@ -1,28 +1,140 @@
-Component Name : 74HC595D_[C5947]
+Component Name : A7672E
 
-Part Count : 2
+Part Count : 3
 
 Part : U?
      Pins - (Normal) : 0
           Hidden Pins : 
 
-Part : U?
-     Pins - (Normal) : 16
-          O\E\           13             Input
-          RCLK           12             Input
-          SER            14             Input
-          S\R\C\L\R\     10             Input
-          SRCLK          11             Input
-          QA             15             HiZ
-          QB             1              HiZ
-          QC             2              HiZ
-          QD             3              HiZ
-          QE             4              HiZ
-          QF             5              HiZ
-          QG             6              HiZ
-          QH             7              HiZ
-          QH'            9              Output
-          VCC            16             Power
-          GND            8              Power
+Part : U?A
+     Pins - (Normal) : 85
+          PWRKEY         1              Input
+          RESET          16             Input
+          USIM1_DATA     31             I/O
+          USIM1_RST      33             Output
+          USIM1_CLK      32             Output
+          USIM1_VDD      30             Output
+          VBAT_ADC       51             Passive
+          GPIO4          53             Passive
+          CTS            7              Output
+          RXD            10             Input
+          DTR            3              Input
+          RTS            8              Input
+          RI             4              Output
+          DCD            5              Output
+          TXD            9              Output
+          I2C_SCL        38             Output
+          I2C_SDA        37             I/O
+          UART_LOG_RX    22             Input
+          UART_LOG_TX    23             Output
+          ADC            25             Input
+          MK_OUT_6/I2C3_SDA35             Passive
+          MK_IN_6/I2C3_SCL36             Passive
+          EAR_P          40             Passive
+          USB_BOOT       6              Input
+          VBAT           55             Power
+          VBAT           56             Power
+          VBAT           57             Power
+          MIC_P          42             Passive
+          EAR_N          41             Passive
+          VDD_EXT_1V8    15             Power
+          MK_OUT_2       44             Passive
+          MK_IN_2        47             Passive
+          SPI_MOSI       13             Output
+          SPI_MISO       14             Input
+          SPI_CS         12             Output
+          SPI_CLK        11             Output
+          MK_OUT_3       21             I/O
+          GPIO1          19             I/O
+          MK_IN_3        20             I/O
+          UART3_RXD      49             Input
+          GPIO3          48             I/O
+          MK_OUT_5       67             Passive
+          NETLIGHT       52             Output
+          STATUS         66             Output
+          MK_IN_5        68             Passive
+          USIM1_DET      34             I/O
+          RF_ANT         60             I/O
+          MIC_N          43             Passive
+          UART3_TXD      50             Output
+          USB_VBUS       24             Input
+          USB_DM         28             I/O
+          USB_DP         27             I/O
+          GPIO2          26             Passive
+          GNSS_ANT       90             Power
+          BT_ANT         93             Power
+          GNSS_TXD       95             Output
+          GNSS_RXD       96             Input
+          1V8_GNSS       97             Power
+          GNSS_PWRCTL    98             Input
+          VDD_AUX        99             Power
+          1PPS           100            Output
+          LCD_BL_PWM     101            Output
+          LCD_SPI_CLK    102            Output
+          LCD_SPI_TXD    103            I/O
+          LCD_SPI_RXD    104            Input
+          LCD_SPI_CS     105            Output
+          LCD_RST        106            Output
+          LCD_DCX        107            Output
+          USIM2_DATA     108            I/O
+          USIM2_CLK      109            Output
+          USIM2_VDD      110            Output
+          USIM2_RST      111            Output
+          USIM2_DET      112            I/O
+          NC             113            Passive
+          NC             114            Passive
+          NC             115            Passive
+          GNSS_VBKP      116            Power
+          CAM_I2C_SDA    117            I/O
+          CAM_I2C_SCL    118            Output
+          CAM_PWDN       119            Output
+          CAM_RST        120            Output
+          CAM_MCLK       121            Output
+          CAM_SPI_D0     122            Input
+          CAM_SPI_D1     123            Input
+          CAM_SPI_CLK    124            Output
+          Hidden Pins : 
+
+Part : U?B
+     Pins - (Normal) : 39
+          GND            18             Power
+          GND            29             Power
+          GND            39             Power
+          GND            45             Power
+          GND            46             Power
+          GND            54             Power
+          GND            2              Power
+          GND            17             Power
+          GND            59             Power
+          GND            61             Power
+          GND            62             Power
+          GND            63             Power
+          GND            64             Power
+          GND            65             Power
+          GND            58             Power
+          GND            69             Power
+          GND            70             Power
+          GND            71             Power
+          GND            72             Power
+          GND            73             Power
+          GND            74             Power
+          GND            75             Power
+          GND            76             Power
+          GND            77             Power
+          GND            78             Power
+          GND            79             Power
+          GND            80             Power
+          GND            81             Power
+          GND            82             Power
+          GND            83             Power
+          GND            84             Power
+          GND            85             Power
+          GND            86             Power
+          GND            87             Power
+          GND            88             Power
+          GND            89             Power
+          GND            91             Power
+          GND            92             Power
+          GND            94             Power
           Hidden Pins : 
 

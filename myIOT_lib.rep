@@ -1,6 +1,6 @@
 CSV text has been written to file : myIOT_lib.csv
 
-Library Component Count : 104
+Library Component Count : 106
 
 Name                Description
 ----------------------------------------------------------------------------------------------------
@@ -8,6 +8,8 @@ Name                Description
 74HC595D_[C5947]    74HC595D
 74LVC1T45GW         IC 74LVC1T45GW-W100H Level Translator 6-TSSOP
 74LVCH2T45DC        IC 74LVCH2T45DC-Q100H Level Translator VSSOP-8
+A7670E              4G LTE Module, SIMCOM A7670E
+A7672E              4G LTE Module, SIMCOM A7672E
 ADR512ARTZ          ADR512ARTZ VRef Shunt Precision 1.2V SOT-23-3
 ANT_WM16803CT-ND    SMD Ant. molex WM16803CT-ND
 AP7331-SNG          300mA, LOW QUIESCENT CU  RRENT, FAST TRANSIENT   LOW DROPOUT LINEAR REGULATOR
@@ -75,7 +77,6 @@ MX25R1635FM2IH1     NOR-Flash Macronix MX25R1635FM2IH1
 Modem_ICS           
 NTC_10K             NTC 10K , 2-Pin
 PCA9306             IC VOLT-LVL TRANSL PCA9306DTR2G Translator TSSOP-8
-PESD5V0U1UB         ESD PESD5V0V1BB  SOD523
 RPOT_25T_104        Potentiometer 100 kOhm 25T Top Adj.
 RPOT_25T_202        Potentiometer 2 kOhm 25T Top Adj.
 SARA-R4             LTE NB-IoT Module, Model : SARA-R410M Cat.M1, Ublox
@@ -90,6 +91,7 @@ SQ_SEN_390          Sensor SQ-SEN-390 On/Off Tilt sensor
 SQ_SEN_XXX          Tilt Detect Switch SQ-SEN-XXX
 STM32F072RBT6       
 STM32F401RET6       IC MCU STM32F401RET6
+STM32F407VET6       ARM
 STM32F429ZIT6       ARM Cortex-M4 32-bit MCU+FPU, 225 DMIPS, 2048 kB Flash, 256 kB Internal RAM, 114 I/Os, 144-pin LQFP, -40 to 85 degC, Tray
 SW DIP-4            DIP Switch, 4 Position, SPST
 SW-SPST             Single-Pole, Single-Throw Switch

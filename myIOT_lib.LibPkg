@@ -244,58 +244,62 @@ DocumentPath=CrystalOscillator.rep
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Diodes.csv
+DocumentPath=Diodes.cmp
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Diodes.rep
+DocumentPath=Diodes.csv
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Inductor.csv
+DocumentPath=Diodes.rep
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Inductor.rep
+DocumentPath=Inductor.csv
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=LED.csv
+DocumentPath=Inductor.rep
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=LED.rep
+DocumentPath=LED.csv
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=myIOT_lib.cmp
+DocumentPath=LED.rep
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=myIOT_lib.csv
+DocumentPath=myIOT_lib.cmp
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=myIOT_lib.rep
+DocumentPath=myIOT_lib.csv
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Resistors.cmp
+DocumentPath=myIOT_lib.rep
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Resistors.csv
+DocumentPath=Resistors.cmp
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Resistors.rep
+DocumentPath=Resistors.csv
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Transistor.csv
+DocumentPath=Resistors.rep
 DItemRevisionGUID=
 
 [GeneratedDocument23]
+DocumentPath=Transistor.csv
+DItemRevisionGUID=
+
+[GeneratedDocument24]
 DocumentPath=Transistor.rep
 DItemRevisionGUID=
 
