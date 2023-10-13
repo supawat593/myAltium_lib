@@ -1,0 +1,15 @@
+Component   : 5EHDVC-2P
+PCB Library : MiscDevices.PcbLib
+Date        : 13-Oct-23
+Time        : 09:16:00
+
+
+
+Dimension : 22.225 x 10.058 mm
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Top Overlay                 0          4        0       0        0
+ Multi Layer                 2          0        0       0        0
+--------------------------------------------------------------------
+ Total                       2          4        0       0        0

@@ -1,0 +1,28 @@
+Component Name : 74HC595D_[C5947]
+
+Part Count : 2
+
+Part : U?
+     Pins - (Normal) : 0
+          Hidden Pins : 
+
+Part : U?
+     Pins - (Normal) : 16
+          O\E\           13             Input
+          RCLK           12             Input
+          SER            14             Input
+          S\R\C\L\R\     10             Input
+          SRCLK          11             Input
+          QA             15             HiZ
+          QB             1              HiZ
+          QC             2              HiZ
+          QD             3              HiZ
+          QE             4              HiZ
+          QF             5              HiZ
+          QG             6              HiZ
+          QH             7              HiZ
+          QH'            9              Output
+          VCC            16             Power
+          GND            8              Power
+          Hidden Pins : 
+
