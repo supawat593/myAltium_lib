@@ -4,5 +4,6 @@
 "LED0805_RED","LED-0805_RED","0805_LED_S1 - RED","","=Value","Oasistek","TO-2013BC-MRE","2.26","","ES","LED_0805_RED","","LED?","LED"
 "LED0805_YLW","LED-0805_YLW","0805_LED_S1 - YLW","M1916","=Value","Oasistek","TO-2013BC-MYE","1.65","","ES","LED_0805_YLW","","LED?","LED TO-2013BC-MYE SMD Yellow water clear 146 MCD"
 "LED3MMH_BLU","LED-BLU","","D0903","=Value","Ligitek","LA16B/DBK-2-PF","1.65","","ES","LED3MMH_BLU","","LED?","LED Housing Dia = 3mm BLUE, 450mcd"
+"LED3MMH_GRN","LED-GRN","","D0904","=Value","Ligitek","LA16B/VY-2-PF","1.65","","ES","LED3MMH_GRN","","LED?","LED Housing Dia = 3mm GREEN, 220mcd"
 "LED3MMH_YLW","LED-YLW","","D0904","=Value","Ligitek","LA16B/VY-2-PF","1.65","","ES","LED3MMH_YLW","","LED?","LED Housing Dia = 3mm YELLOW, 220mcd"
 "LED_RGB","LED_RGB_4p","","","=Value","LITE-ON","LTST-C190KGKT","1.65","","ES","LED_RGB","","LED?","LED RGB COMMON ANODE"

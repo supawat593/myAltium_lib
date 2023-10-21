@@ -1,6 +1,6 @@
 CSV text has been written to file : LED.csv
 
-Library Component Count : 7
+Library Component Count : 8
 
 Name                Description
 ----------------------------------------------------------------------------------------------------
@@ -10,5 +10,6 @@ LED0805_GRN         LED TO-2013BC-MGE SMD Green water clear 146 MCD
 LED0805_RED         LED
 LED0805_YLW         LED TO-2013BC-MYE SMD Yellow water clear 146 MCD
 LED3MMH_BLU         LED Housing Dia = 3mm BLUE, 450mcd
+LED3MMH_GRN         LED Housing Dia = 3mm GREEN, 220mcd
 LED3MMH_YLW         LED Housing Dia = 3mm YELLOW, 220mcd
 LED_RGB             LED RGB COMMON ANODE

@@ -286,42 +286,46 @@ DocumentPath=Inductor.rep
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=LED.csv
+DocumentPath=LED.cmp
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=LED.rep
+DocumentPath=LED.csv
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=myIOT_lib.cmp
+DocumentPath=LED.rep
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=myIOT_lib.csv
+DocumentPath=myIOT_lib.cmp
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=myIOT_lib.rep
+DocumentPath=myIOT_lib.csv
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Resistors.cmp
+DocumentPath=myIOT_lib.rep
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Resistors.csv
+DocumentPath=Resistors.cmp
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Resistors.rep
+DocumentPath=Resistors.csv
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Transistor.csv
+DocumentPath=Resistors.rep
 DItemRevisionGUID=
 
 [GeneratedDocument27]
+DocumentPath=Transistor.csv
+DItemRevisionGUID=
+
+[GeneratedDocument28]
 DocumentPath=Transistor.rep
 DItemRevisionGUID=
 
