@@ -12,6 +12,7 @@
 "C0603_150_50V","C0603XS","M1421","=Value","YAGEO","CC0603JRNPO9BN150","0.6","Digikey","15pF/50V","","C?","Capacitor 0603 15 pF 50V"
 "C0603_180","C0603XS","M0660","=Value","Murata Electronics","GRM1885C1H180JA01D","0.6","Digikey","18pF","","C?","Capacitor 0603 18 pF"
 "C0603_220","C0603XS","M0614","=Value","TDK Corporation","C1608C0G1H220J080AA","0.6","Digikey","22pF/50V","","C?","Capacitor 0603 22 pF 50V"
+"C0603_222","C0603XS","*","=Value","Samsung Electro-Mechanics","CL10B222KB8NFNC","0.6","Digikey","2.2nF/50V","","C?","Capacitor 0603 2200 pF 50V"
 "C0603_225_35V","C0603XS","M1944","=Value","Murata Electronics","GRM188R6YA225KA12D","0.6","Digikey","2.2uF/35V","","C?","Capacitor 0603 2.2 uF 35V X5R"
 "C0603_270","C0603XS","M0684","=Value","KEMET","C0603C270J5GAC7867","0.6","Digikey","27pF","","C?","Capacitor 0603 27 pF"
 "C0603_330","C0603XS","M0923","=Value","Murata Electronics","GRM1885C1H330JA01D","0.6","Digikey","33pF","","C?","Capacitor 0603 33 pF"
