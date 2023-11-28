@@ -1,6 +1,6 @@
 CSV text has been written to file : Diodes.csv
 
-Library Component Count : 16
+Library Component Count : 17
 
 Name                Description
 ----------------------------------------------------------------------------------------------------
@@ -10,6 +10,7 @@ DIO_1N4148          Diode 1N4148WS-7 Switch  SOD323 75V
 DIO_B340LA-13F      Schottky Diode B340LA-13F
 DIO_BAT54S          Diode BAT54S Schottky Barrier Rectifier Diode 30V 200mA  SOT-23
 DIO_BAT60AE         BAT60AE6327INCT-ND Schottky Diode 10V 2A SOD-323
+DIO_BAW156          Silicon Low Leakage Diode, -65 to 150 degC, SOT23, Reel, Green
 DIO_MBRS540T3G      DIODE MBRS540T3G SCHOTTKY 40V 5A
 DIO_NSR1020MW2      Schottky Diode NSR1020MW2
 DIO_RB088BM200TL    DIODE SCHOTTKY RB088BM200TL 200V REVERSE 10A

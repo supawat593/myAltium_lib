@@ -18,7 +18,7 @@
 "PCB_TERM","PCB_TERM_TAB635","","","*","","","","","","","","","","","","","","","*","JP?",""
 "SIMCARD","MOLEX-0475532001","","N1025","SIMCARD","","","","","AUK CONNECTOR","SCPW06L20020-R5H-HCN","","","13.26","","","","","AUK","","P?","Connector for Multipole SIM card ,6 pin, 1.27 mm pitch PCB SMT"
 "UFL_RECP","UFL_recep_SMT","","D0696","UFL","","","","","","","","","","","","","","","*","J?","Connector UMCC IPEX MHF1 Receptacle (M) SMD 50 Ohm"
-"USB4105-GF-A-060","USB4105-GF-A-060","","","USB4105-GF-A-060","","","GCT","USB4105-GF-A-060","","","","","","","","","","","*","J?","USB Connector Type C SMT 12 Pin"
+"USB4105-GF-A-060","USB4105-GF-A-060","","","USB4105-GF-A-060","","","GCT","USB4105-GF-A-060","GCT","USB4105-GF-A-060","","","","","","","","","*","J?","USB Connector Type C SMT 12 Pin"
 "USB4145-03-0170-C","USB4145-03-0170-C","","","USB4145-03-0170-C","","","GCT","USB4145-03-0170-C","","","","","","","","","","","*","J?","USB Connector Type C SMT 16 Pin Vertical"
 "USB4510-03-1-A","USB4510-03-1-A","","","USB4510-03-1-A","","","GCT","USB4510-03-1-A","","","","","","","","","","","*","J?","USB Connector Type C SMT Mid-Mount 16 Pin"
 "USBmicroB","microUSB_ mix_amPN","","N1953","USBmicroB","","","","","","","","","","","","","","","","J?","Micro USB 2.0 ReceptacleType B Connector 5 Position, R/A(Digikey:609-4618-1-ND)"
