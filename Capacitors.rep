@@ -1,6 +1,6 @@
 CSV text has been written to file : Capacitors.csv
 
-Library Component Count : 53
+Library Component Count : 55
 
 Name                Description
 ----------------------------------------------------------------------------------------------------
@@ -37,9 +37,11 @@ C0805_106_25V       Capacitor 0805 10 uF 25V
 C0805_106_50V       Capacitor 0805 10 uF 50V
 C0805_180_50V       Capacitor 0805 18 pF 50V
 C0805_220_50V       Capacitor 0805 22 pF 50V
+C0805_225_16V       Capacitor 0805 2.2 uF 16V 10%
 C0805_226_25V       Capacitor 0805 22 uF 25V
 C0805_226_35V       Capacitor 0805 22 uF 35V
 C0805_331           Capacitor 0805 330 pF 50V
+C0805_475_16V       Capacitor 0805 4.7 uF 16V 10%
 C1206_105_100V      Capacitor 1206 1 uF 100V X7R
 C1206_105_50V       Capacitor 1206 1 uF 50V
 C1206_106_50V       Capacitor 1206 10 uF 50V
